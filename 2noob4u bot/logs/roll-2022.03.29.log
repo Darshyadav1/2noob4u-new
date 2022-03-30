@@ -1,0 +1,253 @@
+14:24:38.121 INFO  Loading commands... 
+14:24:38.253 DEBUG Skipping slash command avatar. Disabled! 
+14:24:38.255 DEBUG Skipping slash command botinvite. Disabled! 
+14:24:38.319 DEBUG Skipping slash command botstats. Disabled! 
+14:24:38.321 DEBUG Skipping slash command channelinfo. Disabled! 
+14:24:38.323 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:24:38.326 DEBUG Skipping slash command guildinfo. Disabled! 
+14:24:38.327 DEBUG Skipping slash command uptime. Disabled! 
+14:24:38.330 DEBUG Skipping slash command userinfo. Disabled! 
+14:24:38.336 DEBUG Skipping command bot. Disabled! 
+14:24:38.338 DEBUG Skipping command info. Disabled! 
+14:24:38.356 DEBUG Skipping slash command deafen. Disabled! 
+14:24:38.358 DEBUG Skipping slash command disconnect. Disabled! 
+14:24:38.361 DEBUG Skipping slash command move. Disabled! 
+14:24:38.364 DEBUG Skipping slash command purge. Disabled! 
+14:24:38.365 DEBUG Skipping slash command purgeattach. Disabled! 
+14:24:38.366 DEBUG Skipping slash command purgebots. Disabled! 
+14:24:38.367 DEBUG Skipping slash command purgelinks. Disabled! 
+14:24:38.368 DEBUG Skipping slash command purgetoken. Disabled! 
+14:24:38.369 DEBUG Skipping slash command purgeuser. Disabled! 
+14:24:38.372 DEBUG Skipping command purge. Disabled! 
+14:24:38.373 DEBUG Skipping command voice. Disabled! 
+14:24:38.376 DEBUG Skipping slash command undeafen. Disabled! 
+14:24:38.378 DEBUG Skipping slash command vmute. Disabled! 
+14:24:38.381 DEBUG Skipping slash command vunmute. Disabled! 
+14:24:38.651 DEBUG Skipping command eeeeee. Disabled! 
+14:24:38.652 DEBUG Skipping slash command eeeeee. Disabled! 
+14:24:38.661 INFO  Loaded 95 commands 
+14:24:38.663 INFO  Loaded 79 slash commands 
+14:24:38.665 INFO  Loading contexts... 
+14:24:38.670 INFO  Loaded 2 USER contexts 
+14:24:38.671 INFO  Loaded 0 MESSAGE contexts 
+14:24:38.672 INFO  Loading events... 
+14:24:38.768 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:24:38.770 INFO  Validating config.js and environment variables 
+14:24:38.771 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:24:38.830 WARN  config.js: OWNER_IDS are empty 
+14:24:38.833 WARN  config.js: SUPPORT_SERVER is not provided 
+14:24:38.835 INFO  Connecting to MongoDb... 
+14:24:44.111 INFO  Mongoose: Database connection established 
+14:24:45.229 INFO  VersionCheck: Your discord bot is up to date 
+14:24:45.231 INFO  Launching dashboard 
+14:24:49.149 INFO  Dashboard is listening on port 8080 
+14:24:51.513 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+14:24:51.515 INFO  Initializing music manager 
+14:24:51.523 INFO  Initializing giveaways manager 
+14:24:51.697 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:24:52.366 INFO  Node "USA Link" connected 
+14:24:56.699 WARN  Node "German Link" is reconnecting 
+14:24:56.706 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:25:01.715 WARN  Node "German Link" is reconnecting 
+14:25:01.723 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:25:06.733 WARN  Node "German Link" is reconnecting 
+14:25:06.791 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:25:11.801 WARN  Node "German Link" is reconnecting 
+14:25:11.814 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:25:16.833 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u bot\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+14:27:07.070 INFO  Loading commands... 
+14:27:08.207 DEBUG Skipping slash command avatar. Disabled! 
+14:27:08.263 DEBUG Skipping slash command botinvite. Disabled! 
+14:27:09.672 DEBUG Skipping slash command botstats. Disabled! 
+14:27:09.724 DEBUG Skipping slash command channelinfo. Disabled! 
+14:27:09.759 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:27:09.848 DEBUG Skipping slash command guildinfo. Disabled! 
+14:27:09.853 DEBUG Skipping slash command help. Disabled! 
+14:27:09.856 DEBUG Skipping slash command uptime. Disabled! 
+14:27:09.899 DEBUG Skipping slash command userinfo. Disabled! 
+14:27:09.996 DEBUG Skipping command bot. Disabled! 
+14:27:10.018 DEBUG Skipping command info. Disabled! 
+14:27:10.328 DEBUG Skipping slash command deafen. Disabled! 
+14:27:10.367 DEBUG Skipping slash command disconnect. Disabled! 
+14:27:10.403 DEBUG Skipping slash command move. Disabled! 
+14:27:10.451 DEBUG Skipping slash command purge. Disabled! 
+14:27:10.492 DEBUG Skipping slash command purgeattach. Disabled! 
+14:27:10.525 DEBUG Skipping slash command purgebots. Disabled! 
+14:27:10.558 DEBUG Skipping slash command purgelinks. Disabled! 
+14:27:10.591 DEBUG Skipping slash command purgetoken. Disabled! 
+14:27:10.602 DEBUG Skipping slash command purgeuser. Disabled! 
+14:27:10.691 DEBUG Skipping command purge. Disabled! 
+14:27:10.740 DEBUG Skipping command voice. Disabled! 
+14:27:10.800 DEBUG Skipping slash command undeafen. Disabled! 
+14:27:10.837 DEBUG Skipping slash command vmute. Disabled! 
+14:27:10.847 DEBUG Skipping slash command vunmute. Disabled! 
+14:27:11.687 DEBUG Skipping command eeeeee. Disabled! 
+14:27:11.687 DEBUG Skipping slash command eeeeee. Disabled! 
+14:27:11.884 INFO  Loaded 96 commands 
+14:27:11.886 INFO  Loaded 79 slash commands 
+14:27:11.890 INFO  Loading contexts... 
+14:27:11.926 INFO  Loaded 2 USER contexts 
+14:27:11.927 INFO  Loaded 0 MESSAGE contexts 
+14:27:11.929 INFO  Loading events... 
+14:27:12.448 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:27:12.449 INFO  Validating config.js and environment variables 
+14:27:12.450 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:27:12.451 WARN  config.js: OWNER_IDS are empty 
+14:27:12.452 WARN  config.js: SUPPORT_SERVER is not provided 
+14:27:12.453 INFO  Connecting to MongoDb... 
+14:27:15.644 INFO  Mongoose: Database connection established 
+14:27:16.089 INFO  VersionCheck: Your discord bot is up to date 
+14:27:16.090 INFO  Launching dashboard 
+14:27:21.292 INFO  Dashboard is listening on port 8080 
+14:27:23.798 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+14:27:23.799 INFO  Initializing music manager 
+14:27:23.804 INFO  Initializing giveaways manager 
+14:27:23.871 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:27:24.444 INFO  Node "USA Link" connected 
+14:27:28.882 WARN  Node "German Link" is reconnecting 
+14:27:28.991 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:27:34.569 WARN  Node "German Link" is reconnecting 
+14:27:34.648 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:27:39.652 WARN  Node "German Link" is reconnecting 
+14:27:39.664 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:27:44.676 WARN  Node "German Link" is reconnecting 
+14:27:44.701 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+14:27:49.714 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u bot\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+14:37:11.608 INFO  Loading commands... 
+14:37:13.291 DEBUG Skipping slash command avatar. Disabled! 
+14:37:13.357 DEBUG Skipping slash command botinvite. Disabled! 
+14:37:15.546 DEBUG Skipping slash command botstats. Disabled! 
+14:37:15.741 DEBUG Skipping slash command channelinfo. Disabled! 
+14:37:15.754 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:37:15.809 DEBUG Skipping slash command guildinfo. Disabled! 
+14:37:15.870 DEBUG Skipping slash command help. Disabled! 
+14:37:15.874 DEBUG Skipping slash command uptime. Disabled! 
+14:37:15.938 DEBUG Skipping slash command userinfo. Disabled! 
+14:37:16.279 DEBUG Skipping command bot. Disabled! 
+14:37:16.377 DEBUG Skipping command info. Disabled! 
+14:37:16.994 DEBUG Skipping slash command deafen. Disabled! 
+14:37:17.034 DEBUG Skipping slash command disconnect. Disabled! 
+14:37:17.169 DEBUG Skipping slash command move. Disabled! 
+14:37:17.248 DEBUG Skipping slash command purge. Disabled! 
+14:37:17.266 DEBUG Skipping slash command purgeattach. Disabled! 
+14:37:17.300 DEBUG Skipping slash command purgebots. Disabled! 
+14:37:17.378 DEBUG Skipping slash command purgelinks. Disabled! 
+14:37:17.411 DEBUG Skipping slash command purgetoken. Disabled! 
+14:37:17.434 DEBUG Skipping slash command purgeuser. Disabled! 
+14:37:17.632 DEBUG Skipping command purge. Disabled! 
+14:37:17.666 DEBUG Skipping command voice. Disabled! 
+14:37:17.732 DEBUG Skipping slash command undeafen. Disabled! 
+14:37:17.735 DEBUG Skipping slash command vmute. Disabled! 
+14:37:17.737 DEBUG Skipping slash command vunmute. Disabled! 
+14:37:18.966 DEBUG Skipping command eeeeee. Disabled! 
+14:37:18.966 DEBUG Skipping slash command eeeeee. Disabled! 
+14:37:19.200 INFO  Loaded 96 commands 
+14:37:19.202 INFO  Loaded 79 slash commands 
+14:37:19.206 INFO  Loading contexts... 
+14:37:19.252 INFO  Loaded 2 USER contexts 
+14:37:19.253 INFO  Loaded 0 MESSAGE contexts 
+14:37:19.255 INFO  Loading events... 
+14:37:19.868 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:37:19.869 INFO  Validating config.js and environment variables 
+14:37:19.870 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:37:19.934 WARN  config.js: OWNER_IDS are empty 
+14:37:19.936 WARN  config.js: SUPPORT_SERVER is not provided 
+14:37:19.937 INFO  Connecting to MongoDb... 
+14:37:23.939 INFO  Mongoose: Database connection established 
+14:37:24.578 INFO  VersionCheck: Your discord bot is up to date 
+14:37:24.580 INFO  Launching dashboard 
+14:37:30.847 INFO  Dashboard is listening on port 8080 
+14:37:33.143 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+14:37:33.144 INFO  Initializing music manager 
+14:37:33.148 INFO  Initializing giveaways manager 
+14:37:33.756 INFO  Node "USA Link" connected 
+14:37:33.760 INFO  Node "darren" connected 
+14:50:45.752 INFO  Loading commands... 
+14:50:46.230 DEBUG Skipping slash command avatar. Disabled! 
+14:50:46.263 DEBUG Skipping slash command botinvite. Disabled! 
+14:50:46.845 DEBUG Skipping slash command botstats. Disabled! 
+14:50:46.868 DEBUG Skipping slash command channelinfo. Disabled! 
+14:50:46.879 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:50:46.901 DEBUG Skipping slash command guildinfo. Disabled! 
+14:50:46.919 DEBUG Skipping slash command help. Disabled! 
+14:50:46.923 DEBUG Skipping slash command uptime. Disabled! 
+14:50:46.978 DEBUG Skipping slash command userinfo. Disabled! 
+14:50:47.020 DEBUG Skipping command bot. Disabled! 
+14:50:47.029 DEBUG Skipping command info. Disabled! 
+14:50:47.129 DEBUG Skipping slash command deafen. Disabled! 
+14:50:47.132 DEBUG Skipping slash command disconnect. Disabled! 
+14:50:47.162 DEBUG Skipping slash command move. Disabled! 
+14:50:47.177 DEBUG Skipping slash command purge. Disabled! 
+14:50:47.206 DEBUG Skipping slash command purgeattach. Disabled! 
+14:50:47.208 DEBUG Skipping slash command purgebots. Disabled! 
+14:50:47.217 DEBUG Skipping slash command purgelinks. Disabled! 
+14:50:47.228 DEBUG Skipping slash command purgetoken. Disabled! 
+14:50:47.230 DEBUG Skipping slash command purgeuser. Disabled! 
+14:50:47.243 DEBUG Skipping command purge. Disabled! 
+14:50:47.245 DEBUG Skipping command voice. Disabled! 
+14:50:47.283 DEBUG Skipping slash command undeafen. Disabled! 
+14:50:47.287 DEBUG Skipping slash command vmute. Disabled! 
+14:50:47.289 DEBUG Skipping slash command vunmute. Disabled! 
+14:50:47.731 DEBUG Skipping command eeeeee. Disabled! 
+14:50:47.731 DEBUG Skipping slash command eeeeee. Disabled! 
+14:50:47.842 INFO  Loaded 97 commands 
+14:50:47.845 INFO  Loaded 80 slash commands 
+14:50:47.849 INFO  Loading contexts... 
+14:50:47.871 INFO  Loaded 2 USER contexts 
+14:50:47.872 INFO  Loaded 0 MESSAGE contexts 
+14:50:47.873 INFO  Loading events... 
+14:50:48.417 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:50:48.418 INFO  Validating config.js and environment variables 
+14:50:48.419 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:50:48.467 WARN  config.js: OWNER_IDS are empty 
+14:50:48.468 WARN  config.js: SUPPORT_SERVER is not provided 
+14:50:48.501 INFO  Connecting to MongoDb... 
+14:50:52.694 INFO  Mongoose: Database connection established 
+14:50:53.943 INFO  VersionCheck: Your discord bot is up to date 
+14:50:53.944 INFO  Launching dashboard 
+14:50:57.436 INFO  Dashboard is listening on port 8080 
+14:50:59.272 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+14:50:59.570 INFO  Initializing music manager 
+14:50:59.592 INFO  Initializing giveaways manager 
+14:51:00.487 INFO  Node "USA Link" connected 
+14:51:00.503 INFO  Node "darren" connected 
