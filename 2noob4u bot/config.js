@@ -25,7 +25,7 @@ module.exports = {
     DEFAULT_LVL_UP_MSG: "{m}, You just advanced to **Level {l}**",
   },
   MISCELLANEOUS: {
-    DAILY_COINS: 1000, // coins to be received by daily command
+    DAILY_COINS: 500, // coins to be received by daily command
   },
   ECONOMY: {
     CURRENCY: "₪",
