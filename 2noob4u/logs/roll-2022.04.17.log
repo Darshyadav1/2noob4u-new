@@ -1,0 +1,917 @@
+16:05:30.432 INFO  Loading commands... 
+16:05:31.380 DEBUG Skipping slash command f. Disabled! 
+16:05:31.939 DEBUG Skipping slash command rate. Disabled! 
+16:05:31.957 DEBUG Skipping slash command roast. Disabled! 
+16:05:32.636 DEBUG Skipping slash command avatar. Disabled! 
+16:05:32.794 DEBUG Skipping slash command botinvite. Disabled! 
+16:05:35.303 DEBUG Skipping slash command botstats. Disabled! 
+16:05:35.306 DEBUG Skipping slash command channelinfo. Disabled! 
+16:05:35.312 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:05:35.316 DEBUG Skipping slash command guildinfo. Disabled! 
+16:05:35.521 DEBUG Skipping slash command help. Disabled! 
+16:05:35.525 DEBUG Skipping slash command uptime. Disabled! 
+16:05:35.662 DEBUG Skipping slash command userinfo. Disabled! 
+16:05:35.669 DEBUG Skipping slash command vote. Disabled! 
+16:05:35.841 DEBUG Skipping command bot. Disabled! 
+16:05:35.845 DEBUG Skipping command info. Disabled! 
+16:05:36.159 DEBUG Skipping slash command deafen. Disabled! 
+16:05:36.163 DEBUG Skipping slash command disconnect. Disabled! 
+16:05:36.235 DEBUG Skipping slash command move. Disabled! 
+16:05:36.322 DEBUG Skipping slash command purge. Disabled! 
+16:05:36.328 DEBUG Skipping slash command purgeattach. Disabled! 
+16:05:36.331 DEBUG Skipping slash command purgebots. Disabled! 
+16:05:36.333 DEBUG Skipping slash command purgelinks. Disabled! 
+16:05:36.336 DEBUG Skipping slash command purgetoken. Disabled! 
+16:05:36.338 DEBUG Skipping slash command purgeuser. Disabled! 
+16:05:36.385 DEBUG Skipping command purge. Disabled! 
+16:05:36.388 DEBUG Skipping command voice. Disabled! 
+16:05:36.474 DEBUG Skipping slash command undeafen. Disabled! 
+16:05:36.479 DEBUG Skipping slash command vmute. Disabled! 
+16:05:36.481 DEBUG Skipping slash command vunmute. Disabled! 
+16:05:37.663 DEBUG Skipping command help. Disabled! 
+16:05:37.794 INFO  Loaded 103 commands 
+16:05:37.797 INFO  Loaded 83 slash commands 
+16:05:37.801 INFO  Loading contexts... 
+16:05:37.825 INFO  Loaded 2 USER contexts 
+16:05:37.827 INFO  Loaded 0 MESSAGE contexts 
+16:05:37.831 INFO  Loading events... 
+16:05:38.416 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:05:38.418 INFO  Validating config.js and environment variables 
+16:05:38.420 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:05:38.472 INFO  Connecting to MongoDb... 
+16:05:52.449 INFO  Mongoose: Database connection established 
+16:05:56.231 WARN  VersionCheck: 4.2.2 update is available 
+16:05:56.231 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:05:56.233 INFO  Launching dashboard 
+16:06:08.661 INFO  Dashboard is listening on port 8080 
+16:06:18.195 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:06:18.196 INFO  Initializing music manager 
+16:06:18.204 INFO  Initializing giveaways manager 
+16:06:18.987 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:06:19.977 INFO  Successfully registered slash commands 
+16:06:20.658 INFO  Node "USA Link" connected 
+16:06:23.997 WARN  Node "darren" is reconnecting 
+16:06:24.007 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:06:29.021 WARN  Node "darren" is reconnecting 
+16:06:29.052 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:06:34.057 WARN  Node "darren" is reconnecting 
+16:06:34.065 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:06:39.069 WARN  Node "darren" is reconnecting 
+16:06:39.101 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:06:44.104 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:13:54.218 INFO  Loading commands... 
+16:13:54.474 DEBUG Skipping slash command f. Disabled! 
+16:13:54.557 DEBUG Skipping slash command rate. Disabled! 
+16:13:54.575 DEBUG Skipping slash command roast. Disabled! 
+16:13:54.626 DEBUG Skipping slash command uselessweb. Disabled! 
+16:13:54.748 DEBUG Skipping slash command avatar. Disabled! 
+16:13:54.754 DEBUG Skipping slash command botinvite. Disabled! 
+16:13:55.333 DEBUG Skipping slash command botstats. Disabled! 
+16:13:55.359 DEBUG Skipping slash command channelinfo. Disabled! 
+16:13:55.363 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:13:55.372 DEBUG Skipping slash command guildinfo. Disabled! 
+16:13:55.376 DEBUG Skipping slash command help. Disabled! 
+16:13:55.377 DEBUG Skipping slash command uptime. Disabled! 
+16:13:55.392 DEBUG Skipping slash command userinfo. Disabled! 
+16:13:55.397 DEBUG Skipping slash command vote. Disabled! 
+16:13:55.417 DEBUG Skipping command bot. Disabled! 
+16:13:55.421 DEBUG Skipping command info. Disabled! 
+16:13:55.619 DEBUG Skipping slash command deafen. Disabled! 
+16:13:55.628 DEBUG Skipping slash command disconnect. Disabled! 
+16:13:55.647 DEBUG Skipping slash command move. Disabled! 
+16:13:55.652 DEBUG Skipping slash command purge. Disabled! 
+16:13:55.654 DEBUG Skipping slash command purgeattach. Disabled! 
+16:13:55.656 DEBUG Skipping slash command purgebots. Disabled! 
+16:13:55.658 DEBUG Skipping slash command purgelinks. Disabled! 
+16:13:55.660 DEBUG Skipping slash command purgetoken. Disabled! 
+16:13:55.662 DEBUG Skipping slash command purgeuser. Disabled! 
+16:13:55.675 DEBUG Skipping command purge. Disabled! 
+16:13:55.678 DEBUG Skipping command voice. Disabled! 
+16:13:55.687 DEBUG Skipping slash command undeafen. Disabled! 
+16:13:55.692 DEBUG Skipping slash command vmute. Disabled! 
+16:13:55.694 DEBUG Skipping slash command vunmute. Disabled! 
+16:13:55.916 DEBUG Skipping command help. Disabled! 
+16:13:55.954 INFO  Loaded 104 commands 
+16:13:55.955 INFO  Loaded 83 slash commands 
+16:13:55.956 INFO  Loading contexts... 
+16:13:55.962 INFO  Loaded 2 USER contexts 
+16:13:55.963 INFO  Loaded 0 MESSAGE contexts 
+16:13:55.964 INFO  Loading events... 
+16:13:56.102 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:13:56.103 INFO  Validating config.js and environment variables 
+16:13:56.104 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:13:56.105 INFO  Connecting to MongoDb... 
+16:14:00.798 INFO  Mongoose: Database connection established 
+16:14:03.639 WARN  VersionCheck: 4.2.2 update is available 
+16:14:03.825 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:14:03.827 INFO  Launching dashboard 
+16:14:10.165 INFO  Dashboard is listening on port 8080 
+16:14:13.604 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:14:13.606 INFO  Initializing music manager 
+16:14:13.613 INFO  Initializing giveaways manager 
+16:14:13.665 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:14:14.291 INFO  Node "USA Link" connected 
+16:14:14.783 INFO  Successfully registered slash commands 
+16:14:18.676 WARN  Node "darren" is reconnecting 
+16:14:18.682 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:14:23.691 WARN  Node "darren" is reconnecting 
+16:14:23.699 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:14:28.703 WARN  Node "darren" is reconnecting 
+16:14:28.709 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:14:33.715 WARN  Node "darren" is reconnecting 
+16:14:33.759 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:14:38.771 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:16:33.405 INFO  Loading commands... 
+16:16:33.482 DEBUG Skipping slash command f. Disabled! 
+16:16:33.492 DEBUG Skipping slash command pickupline. Disabled! 
+16:16:33.493 DEBUG Skipping slash command rate. Disabled! 
+16:16:33.495 DEBUG Skipping slash command roast. Disabled! 
+16:16:33.500 DEBUG Skipping slash command uselessweb. Disabled! 
+16:16:33.519 DEBUG Skipping slash command avatar. Disabled! 
+16:16:33.521 DEBUG Skipping slash command botinvite. Disabled! 
+16:16:33.585 DEBUG Skipping slash command botstats. Disabled! 
+16:16:33.587 DEBUG Skipping slash command channelinfo. Disabled! 
+16:16:33.590 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:16:33.593 DEBUG Skipping slash command guildinfo. Disabled! 
+16:16:33.595 DEBUG Skipping slash command help. Disabled! 
+16:16:33.597 DEBUG Skipping slash command uptime. Disabled! 
+16:16:33.599 DEBUG Skipping slash command userinfo. Disabled! 
+16:16:33.601 DEBUG Skipping slash command vote. Disabled! 
+16:16:33.607 DEBUG Skipping command bot. Disabled! 
+16:16:33.609 DEBUG Skipping command info. Disabled! 
+16:16:33.629 DEBUG Skipping slash command deafen. Disabled! 
+16:16:33.631 DEBUG Skipping slash command disconnect. Disabled! 
+16:16:33.634 DEBUG Skipping slash command move. Disabled! 
+16:16:33.636 DEBUG Skipping slash command purge. Disabled! 
+16:16:33.637 DEBUG Skipping slash command purgeattach. Disabled! 
+16:16:33.638 DEBUG Skipping slash command purgebots. Disabled! 
+16:16:33.639 DEBUG Skipping slash command purgelinks. Disabled! 
+16:16:33.640 DEBUG Skipping slash command purgetoken. Disabled! 
+16:16:33.641 DEBUG Skipping slash command purgeuser. Disabled! 
+16:16:33.644 DEBUG Skipping command purge. Disabled! 
+16:16:33.646 DEBUG Skipping command voice. Disabled! 
+16:16:33.649 DEBUG Skipping slash command undeafen. Disabled! 
+16:16:33.651 DEBUG Skipping slash command vmute. Disabled! 
+16:16:33.654 DEBUG Skipping slash command vunmute. Disabled! 
+16:16:33.686 DEBUG Skipping command help. Disabled! 
+16:16:33.693 INFO  Loaded 105 commands 
+16:16:33.694 INFO  Loaded 83 slash commands 
+16:16:33.695 INFO  Loading contexts... 
+16:16:33.700 INFO  Loaded 2 USER contexts 
+16:16:33.701 INFO  Loaded 0 MESSAGE contexts 
+16:16:33.703 INFO  Loading events... 
+16:16:33.796 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:16:33.797 INFO  Validating config.js and environment variables 
+16:16:33.799 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:16:33.800 INFO  Connecting to MongoDb... 
+16:16:39.211 INFO  Mongoose: Database connection established 
+16:16:39.900 WARN  VersionCheck: 4.2.2 update is available 
+16:16:39.902 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:16:39.904 INFO  Launching dashboard 
+16:16:40.165 INFO  Dashboard is listening on port 8080 
+16:16:42.707 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:16:42.708 INFO  Initializing music manager 
+16:16:42.714 INFO  Initializing giveaways manager 
+16:16:42.743 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:16:43.247 INFO  Successfully registered slash commands 
+16:16:43.265 INFO  Node "USA Link" connected 
+16:16:47.756 WARN  Node "darren" is reconnecting 
+16:16:47.812 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:16:52.818 WARN  Node "darren" is reconnecting 
+16:16:52.830 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:16:57.831 WARN  Node "darren" is reconnecting 
+16:16:57.843 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:17:02.850 WARN  Node "darren" is reconnecting 
+16:17:02.869 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:17:07.884 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:17:45.308 INFO  Loading commands... 
+16:17:45.387 DEBUG Skipping slash command f. Disabled! 
+16:17:45.397 DEBUG Skipping slash command pickupline. Disabled! 
+16:17:45.398 DEBUG Skipping slash command rate. Disabled! 
+16:17:45.399 DEBUG Skipping slash command roast. Disabled! 
+16:17:45.402 DEBUG Skipping slash command uselessweb. Disabled! 
+16:17:45.417 DEBUG Skipping slash command avatar. Disabled! 
+16:17:45.419 DEBUG Skipping slash command botinvite. Disabled! 
+16:17:45.469 DEBUG Skipping slash command botstats. Disabled! 
+16:17:45.471 DEBUG Skipping slash command channelinfo. Disabled! 
+16:17:45.473 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:17:45.476 DEBUG Skipping slash command guildinfo. Disabled! 
+16:17:45.478 DEBUG Skipping slash command help. Disabled! 
+16:17:45.478 DEBUG Skipping slash command uptime. Disabled! 
+16:17:45.480 DEBUG Skipping slash command userinfo. Disabled! 
+16:17:45.482 DEBUG Skipping slash command vote. Disabled! 
+16:17:45.486 DEBUG Skipping command bot. Disabled! 
+16:17:45.487 DEBUG Skipping command info. Disabled! 
+16:17:45.500 DEBUG Skipping slash command deafen. Disabled! 
+16:17:45.502 DEBUG Skipping slash command disconnect. Disabled! 
+16:17:45.504 DEBUG Skipping slash command move. Disabled! 
+16:17:45.506 DEBUG Skipping slash command purge. Disabled! 
+16:17:45.507 DEBUG Skipping slash command purgeattach. Disabled! 
+16:17:45.508 DEBUG Skipping slash command purgebots. Disabled! 
+16:17:45.509 DEBUG Skipping slash command purgelinks. Disabled! 
+16:17:45.510 DEBUG Skipping slash command purgetoken. Disabled! 
+16:17:45.511 DEBUG Skipping slash command purgeuser. Disabled! 
+16:17:45.514 DEBUG Skipping command purge. Disabled! 
+16:17:45.515 DEBUG Skipping command voice. Disabled! 
+16:17:45.520 DEBUG Skipping slash command undeafen. Disabled! 
+16:17:45.522 DEBUG Skipping slash command vmute. Disabled! 
+16:17:45.522 DEBUG Skipping slash command vunmute. Disabled! 
+16:17:45.554 DEBUG Skipping command help. Disabled! 
+16:17:45.560 INFO  Loaded 105 commands 
+16:17:45.561 INFO  Loaded 83 slash commands 
+16:17:45.563 INFO  Loading contexts... 
+16:17:45.568 INFO  Loaded 2 USER contexts 
+16:17:45.569 INFO  Loaded 0 MESSAGE contexts 
+16:17:45.571 INFO  Loading events... 
+16:17:45.663 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:17:45.664 INFO  Validating config.js and environment variables 
+16:17:45.666 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:17:45.667 INFO  Connecting to MongoDb... 
+16:17:51.854 INFO  Mongoose: Database connection established 
+16:17:53.047 WARN  VersionCheck: 4.2.2 update is available 
+16:17:53.049 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:17:53.049 INFO  Launching dashboard 
+16:17:53.266 INFO  Dashboard is listening on port 8080 
+16:17:56.405 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:17:56.405 INFO  Initializing music manager 
+16:17:56.591 INFO  Initializing giveaways manager 
+16:17:56.640 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:17:57.495 INFO  Node "USA Link" connected 
+16:17:57.514 INFO  Successfully registered slash commands 
+16:18:01.655 WARN  Node "darren" is reconnecting 
+16:18:01.668 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:18:06.685 WARN  Node "darren" is reconnecting 
+16:18:06.701 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:18:11.715 WARN  Node "darren" is reconnecting 
+16:18:11.727 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:18:16.730 WARN  Node "darren" is reconnecting 
+16:18:16.736 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:18:21.738 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:21:41.044 INFO  Loading commands... 
+16:21:41.123 DEBUG Skipping slash command f. Disabled! 
+16:21:41.133 DEBUG Skipping slash command pickupline. Disabled! 
+16:21:41.134 DEBUG Skipping slash command rate. Disabled! 
+16:21:41.136 DEBUG Skipping slash command roast. Disabled! 
+16:21:41.174 ERROR Failed to load simprate.js Reason: randomInteger is not defined 
+16:21:41.183 DEBUG Skipping slash command uselessweb. Disabled! 
+16:21:41.208 DEBUG Skipping slash command avatar. Disabled! 
+16:21:41.212 DEBUG Skipping slash command botinvite. Disabled! 
+16:21:41.281 DEBUG Skipping slash command botstats. Disabled! 
+16:21:41.283 DEBUG Skipping slash command channelinfo. Disabled! 
+16:21:41.285 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:21:41.287 DEBUG Skipping slash command guildinfo. Disabled! 
+16:21:41.289 DEBUG Skipping slash command help. Disabled! 
+16:21:41.290 DEBUG Skipping slash command uptime. Disabled! 
+16:21:41.292 DEBUG Skipping slash command userinfo. Disabled! 
+16:21:41.294 DEBUG Skipping slash command vote. Disabled! 
+16:21:41.299 DEBUG Skipping command bot. Disabled! 
+16:21:41.300 DEBUG Skipping command info. Disabled! 
+16:21:41.314 DEBUG Skipping slash command deafen. Disabled! 
+16:21:41.315 DEBUG Skipping slash command disconnect. Disabled! 
+16:21:41.318 DEBUG Skipping slash command move. Disabled! 
+16:21:41.320 DEBUG Skipping slash command purge. Disabled! 
+16:21:41.321 DEBUG Skipping slash command purgeattach. Disabled! 
+16:21:41.322 DEBUG Skipping slash command purgebots. Disabled! 
+16:21:41.323 DEBUG Skipping slash command purgelinks. Disabled! 
+16:21:41.324 DEBUG Skipping slash command purgetoken. Disabled! 
+16:21:41.325 DEBUG Skipping slash command purgeuser. Disabled! 
+16:21:41.329 DEBUG Skipping command purge. Disabled! 
+16:21:41.330 DEBUG Skipping command voice. Disabled! 
+16:21:41.333 DEBUG Skipping slash command undeafen. Disabled! 
+16:21:41.335 DEBUG Skipping slash command vmute. Disabled! 
+16:21:41.336 DEBUG Skipping slash command vunmute. Disabled! 
+16:21:41.371 DEBUG Skipping command help. Disabled! 
+16:21:41.378 INFO  Loaded 105 commands 
+16:21:41.379 INFO  Loaded 83 slash commands 
+16:21:41.380 INFO  Loading contexts... 
+16:21:41.385 INFO  Loaded 2 USER contexts 
+16:21:41.386 INFO  Loaded 0 MESSAGE contexts 
+16:21:41.388 INFO  Loading events... 
+16:21:41.469 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:21:41.471 INFO  Validating config.js and environment variables 
+16:21:41.472 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:21:41.473 INFO  Connecting to MongoDb... 
+16:21:49.010 INFO  Mongoose: Database connection established 
+16:21:54.299 WARN  VersionCheck: 4.2.2 update is available 
+16:21:54.300 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:21:54.301 INFO  Launching dashboard 
+16:21:54.544 INFO  Dashboard is listening on port 8080 
+16:21:57.472 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:21:57.473 INFO  Initializing music manager 
+16:21:57.482 INFO  Initializing giveaways manager 
+16:21:57.521 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:21:58.508 INFO  Successfully registered slash commands 
+16:21:59.123 INFO  Node "USA Link" connected 
+16:22:02.531 WARN  Node "darren" is reconnecting 
+16:22:02.537 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:22:07.545 WARN  Node "darren" is reconnecting 
+16:22:07.581 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:22:12.585 WARN  Node "darren" is reconnecting 
+16:22:12.623 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:22:17.625 WARN  Node "darren" is reconnecting 
+16:22:17.631 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:22:22.643 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:22:59.612 INFO  Loading commands... 
+16:22:59.687 DEBUG Skipping slash command f. Disabled! 
+16:22:59.697 DEBUG Skipping slash command pickupline. Disabled! 
+16:22:59.699 DEBUG Skipping slash command rate. Disabled! 
+16:22:59.700 DEBUG Skipping slash command roast. Disabled! 
+16:22:59.702 ERROR Failed to load simprate.js Reason: randomInteger is not defined 
+16:22:59.708 DEBUG Skipping slash command uselessweb. Disabled! 
+16:22:59.735 DEBUG Skipping slash command avatar. Disabled! 
+16:22:59.737 DEBUG Skipping slash command botinvite. Disabled! 
+16:22:59.800 DEBUG Skipping slash command botstats. Disabled! 
+16:22:59.802 DEBUG Skipping slash command channelinfo. Disabled! 
+16:22:59.804 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:22:59.806 DEBUG Skipping slash command guildinfo. Disabled! 
+16:22:59.808 DEBUG Skipping slash command help. Disabled! 
+16:22:59.809 DEBUG Skipping slash command uptime. Disabled! 
+16:22:59.811 DEBUG Skipping slash command userinfo. Disabled! 
+16:22:59.813 DEBUG Skipping slash command vote. Disabled! 
+16:22:59.818 DEBUG Skipping command bot. Disabled! 
+16:22:59.819 DEBUG Skipping command info. Disabled! 
+16:22:59.832 DEBUG Skipping slash command deafen. Disabled! 
+16:22:59.834 DEBUG Skipping slash command disconnect. Disabled! 
+16:22:59.836 DEBUG Skipping slash command move. Disabled! 
+16:22:59.838 DEBUG Skipping slash command purge. Disabled! 
+16:22:59.839 DEBUG Skipping slash command purgeattach. Disabled! 
+16:22:59.841 DEBUG Skipping slash command purgebots. Disabled! 
+16:22:59.842 DEBUG Skipping slash command purgelinks. Disabled! 
+16:22:59.843 DEBUG Skipping slash command purgetoken. Disabled! 
+16:22:59.844 DEBUG Skipping slash command purgeuser. Disabled! 
+16:22:59.847 DEBUG Skipping command purge. Disabled! 
+16:22:59.848 DEBUG Skipping command voice. Disabled! 
+16:22:59.851 DEBUG Skipping slash command undeafen. Disabled! 
+16:22:59.853 DEBUG Skipping slash command vmute. Disabled! 
+16:22:59.854 DEBUG Skipping slash command vunmute. Disabled! 
+16:22:59.888 DEBUG Skipping command help. Disabled! 
+16:22:59.895 INFO  Loaded 105 commands 
+16:22:59.895 INFO  Loaded 83 slash commands 
+16:22:59.897 INFO  Loading contexts... 
+16:22:59.902 INFO  Loaded 2 USER contexts 
+16:22:59.904 INFO  Loaded 0 MESSAGE contexts 
+16:22:59.906 INFO  Loading events... 
+16:22:59.998 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:23:00.002 INFO  Validating config.js and environment variables 
+16:23:00.005 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:23:00.008 INFO  Connecting to MongoDb... 
+16:23:06.050 INFO  Mongoose: Database connection established 
+16:23:06.478 WARN  VersionCheck: 4.2.2 update is available 
+16:23:06.479 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:23:06.480 INFO  Launching dashboard 
+16:23:06.716 INFO  Dashboard is listening on port 8080 
+16:23:09.088 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:23:09.089 INFO  Initializing music manager 
+16:23:09.098 INFO  Initializing giveaways manager 
+16:23:09.136 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:23:09.968 INFO  Node "USA Link" connected 
+16:23:09.983 INFO  Successfully registered slash commands 
+16:23:14.146 WARN  Node "darren" is reconnecting 
+16:23:14.155 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:23:19.166 WARN  Node "darren" is reconnecting 
+16:23:19.209 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:23:24.225 WARN  Node "darren" is reconnecting 
+16:23:24.231 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:23:29.240 WARN  Node "darren" is reconnecting 
+16:23:29.250 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:23:34.256 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:28:17.719 INFO  Loading commands... 
+16:28:17.830 DEBUG Skipping slash command f. Disabled! 
+16:28:17.850 DEBUG Skipping slash command pickupline. Disabled! 
+16:28:17.863 DEBUG Skipping slash command rate. Disabled! 
+16:28:17.921 DEBUG Skipping slash command roast. Disabled! 
+16:28:17.925 ERROR Failed to load simprate.js Reason: randomInteger is not defined 
+16:28:17.937 DEBUG Skipping slash command uselessweb. Disabled! 
+16:28:17.976 DEBUG Skipping slash command avatar. Disabled! 
+16:28:17.978 DEBUG Skipping slash command botinvite. Disabled! 
+16:28:18.040 DEBUG Skipping slash command botstats. Disabled! 
+16:28:18.042 DEBUG Skipping slash command channelinfo. Disabled! 
+16:28:18.044 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:28:18.047 DEBUG Skipping slash command guildinfo. Disabled! 
+16:28:18.048 DEBUG Skipping slash command help. Disabled! 
+16:28:18.049 DEBUG Skipping slash command uptime. Disabled! 
+16:28:18.051 DEBUG Skipping slash command userinfo. Disabled! 
+16:28:18.053 DEBUG Skipping slash command vote. Disabled! 
+16:28:18.058 DEBUG Skipping command bot. Disabled! 
+16:28:18.060 DEBUG Skipping command info. Disabled! 
+16:28:18.157 DEBUG Skipping slash command deafen. Disabled! 
+16:28:18.162 DEBUG Skipping slash command disconnect. Disabled! 
+16:28:18.241 DEBUG Skipping slash command move. Disabled! 
+16:28:18.364 DEBUG Skipping slash command purge. Disabled! 
+16:28:18.368 DEBUG Skipping slash command purgeattach. Disabled! 
+16:28:18.408 DEBUG Skipping slash command purgebots. Disabled! 
+16:28:18.413 DEBUG Skipping slash command purgelinks. Disabled! 
+16:28:18.417 DEBUG Skipping slash command purgetoken. Disabled! 
+16:28:18.420 DEBUG Skipping slash command purgeuser. Disabled! 
+16:28:18.480 DEBUG Skipping command purge. Disabled! 
+16:28:18.491 DEBUG Skipping command voice. Disabled! 
+16:28:18.563 DEBUG Skipping slash command undeafen. Disabled! 
+16:28:18.570 DEBUG Skipping slash command vmute. Disabled! 
+16:28:18.579 DEBUG Skipping slash command vunmute. Disabled! 
+16:28:19.713 DEBUG Skipping command help. Disabled! 
+16:28:19.790 INFO  Loaded 105 commands 
+16:28:19.792 INFO  Loaded 83 slash commands 
+16:28:19.796 INFO  Loading contexts... 
+16:28:19.807 INFO  Loaded 2 USER contexts 
+16:28:19.809 INFO  Loaded 0 MESSAGE contexts 
+16:28:19.810 INFO  Loading events... 
+16:28:19.947 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:28:19.950 INFO  Validating config.js and environment variables 
+16:28:19.954 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:28:19.955 INFO  Connecting to MongoDb... 
+16:28:27.328 INFO  Mongoose: Database connection established 
+16:28:34.184 WARN  VersionCheck: 4.2.2 update is available 
+16:28:34.186 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:28:34.187 INFO  Launching dashboard 
+16:28:39.148 INFO  Dashboard is listening on port 8080 
+16:28:43.140 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:28:43.141 INFO  Initializing music manager 
+16:28:43.146 INFO  Initializing giveaways manager 
+16:28:43.458 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:28:44.266 INFO  Node "USA Link" connected 
+16:28:44.279 INFO  Successfully registered slash commands 
+16:28:48.466 WARN  Node "darren" is reconnecting 
+16:28:48.477 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:28:53.491 WARN  Node "darren" is reconnecting 
+16:28:53.506 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:28:58.510 WARN  Node "darren" is reconnecting 
+16:28:58.517 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:29:03.532 WARN  Node "darren" is reconnecting 
+16:29:03.554 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:29:08.570 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:31:20.209 INFO  Loading commands... 
+16:31:20.290 DEBUG Skipping slash command f. Disabled! 
+16:31:20.298 DEBUG Skipping slash command pickupline. Disabled! 
+16:31:20.299 DEBUG Skipping slash command rate. Disabled! 
+16:31:20.301 DEBUG Skipping slash command roast. Disabled! 
+16:31:21.372 ERROR Failed to load simprate.js Reason: Identifier 'amount' has already been declared 
+16:31:21.377 DEBUG Skipping slash command uselessweb. Disabled! 
+16:31:21.403 DEBUG Skipping slash command avatar. Disabled! 
+16:31:21.408 DEBUG Skipping slash command botinvite. Disabled! 
+16:31:21.480 DEBUG Skipping slash command botstats. Disabled! 
+16:31:21.483 DEBUG Skipping slash command channelinfo. Disabled! 
+16:31:21.485 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:31:21.488 DEBUG Skipping slash command guildinfo. Disabled! 
+16:31:21.490 DEBUG Skipping slash command help. Disabled! 
+16:31:21.492 DEBUG Skipping slash command uptime. Disabled! 
+16:31:21.493 DEBUG Skipping slash command userinfo. Disabled! 
+16:31:21.495 DEBUG Skipping slash command vote. Disabled! 
+16:31:21.500 DEBUG Skipping command bot. Disabled! 
+16:31:21.502 DEBUG Skipping command info. Disabled! 
+16:31:21.517 DEBUG Skipping slash command deafen. Disabled! 
+16:31:21.519 DEBUG Skipping slash command disconnect. Disabled! 
+16:31:21.523 DEBUG Skipping slash command move. Disabled! 
+16:31:21.525 DEBUG Skipping slash command purge. Disabled! 
+16:31:21.526 DEBUG Skipping slash command purgeattach. Disabled! 
+16:31:21.527 DEBUG Skipping slash command purgebots. Disabled! 
+16:31:21.528 DEBUG Skipping slash command purgelinks. Disabled! 
+16:31:21.529 DEBUG Skipping slash command purgetoken. Disabled! 
+16:31:21.530 DEBUG Skipping slash command purgeuser. Disabled! 
+16:31:21.535 DEBUG Skipping command purge. Disabled! 
+16:31:21.538 DEBUG Skipping command voice. Disabled! 
+16:31:21.541 DEBUG Skipping slash command undeafen. Disabled! 
+16:31:21.543 DEBUG Skipping slash command vmute. Disabled! 
+16:31:21.544 DEBUG Skipping slash command vunmute. Disabled! 
+16:31:21.580 DEBUG Skipping command help. Disabled! 
+16:31:21.588 INFO  Loaded 105 commands 
+16:31:21.588 INFO  Loaded 83 slash commands 
+16:31:21.589 INFO  Loading contexts... 
+16:31:21.595 INFO  Loaded 2 USER contexts 
+16:31:21.595 INFO  Loaded 0 MESSAGE contexts 
+16:31:21.597 INFO  Loading events... 
+16:31:21.679 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:31:21.681 INFO  Validating config.js and environment variables 
+16:31:21.682 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:31:21.683 INFO  Connecting to MongoDb... 
+16:31:27.835 INFO  Mongoose: Database connection established 
+16:31:28.306 WARN  VersionCheck: 4.2.2 update is available 
+16:31:28.306 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:31:28.307 INFO  Launching dashboard 
+16:31:28.933 INFO  Dashboard is listening on port 8080 
+16:31:33.743 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:31:33.744 INFO  Initializing music manager 
+16:31:33.749 INFO  Initializing giveaways manager 
+16:31:33.785 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:31:34.395 INFO  Node "USA Link" connected 
+16:31:34.412 INFO  Successfully registered slash commands 
+16:31:38.792 WARN  Node "darren" is reconnecting 
+16:31:38.800 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:31:43.805 WARN  Node "darren" is reconnecting 
+16:31:43.813 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:31:48.864 WARN  Node "darren" is reconnecting 
+16:31:48.870 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:31:53.877 WARN  Node "darren" is reconnecting 
+16:31:53.885 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:31:58.893 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:32:06.430 INFO  Loading commands... 
+16:32:06.514 DEBUG Skipping slash command f. Disabled! 
+16:32:06.523 DEBUG Skipping slash command pickupline. Disabled! 
+16:32:06.524 DEBUG Skipping slash command rate. Disabled! 
+16:32:06.525 DEBUG Skipping slash command roast. Disabled! 
+16:32:06.527 DEBUG Skipping slash command simprate. Disabled! 
+16:32:06.531 DEBUG Skipping slash command uselessweb. Disabled! 
+16:32:06.548 DEBUG Skipping slash command avatar. Disabled! 
+16:32:06.549 DEBUG Skipping slash command botinvite. Disabled! 
+16:32:06.603 DEBUG Skipping slash command botstats. Disabled! 
+16:32:06.605 DEBUG Skipping slash command channelinfo. Disabled! 
+16:32:06.607 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:32:06.609 DEBUG Skipping slash command guildinfo. Disabled! 
+16:32:06.610 DEBUG Skipping slash command help. Disabled! 
+16:32:06.611 DEBUG Skipping slash command uptime. Disabled! 
+16:32:06.613 DEBUG Skipping slash command userinfo. Disabled! 
+16:32:06.615 DEBUG Skipping slash command vote. Disabled! 
+16:32:06.619 DEBUG Skipping command bot. Disabled! 
+16:32:06.621 DEBUG Skipping command info. Disabled! 
+16:32:06.634 DEBUG Skipping slash command deafen. Disabled! 
+16:32:06.636 DEBUG Skipping slash command disconnect. Disabled! 
+16:32:06.638 DEBUG Skipping slash command move. Disabled! 
+16:32:06.640 DEBUG Skipping slash command purge. Disabled! 
+16:32:06.641 DEBUG Skipping slash command purgeattach. Disabled! 
+16:32:06.643 DEBUG Skipping slash command purgebots. Disabled! 
+16:32:06.644 DEBUG Skipping slash command purgelinks. Disabled! 
+16:32:06.645 DEBUG Skipping slash command purgetoken. Disabled! 
+16:32:06.646 DEBUG Skipping slash command purgeuser. Disabled! 
+16:32:06.649 DEBUG Skipping command purge. Disabled! 
+16:32:06.651 DEBUG Skipping command voice. Disabled! 
+16:32:06.654 DEBUG Skipping slash command undeafen. Disabled! 
+16:32:06.656 DEBUG Skipping slash command vmute. Disabled! 
+16:32:06.656 DEBUG Skipping slash command vunmute. Disabled! 
+16:32:06.690 DEBUG Skipping command help. Disabled! 
+16:32:06.697 INFO  Loaded 106 commands 
+16:32:06.698 INFO  Loaded 83 slash commands 
+16:32:06.699 INFO  Loading contexts... 
+16:32:06.704 INFO  Loaded 2 USER contexts 
+16:32:06.705 INFO  Loaded 0 MESSAGE contexts 
+16:32:06.706 INFO  Loading events... 
+16:32:06.801 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:32:06.803 INFO  Validating config.js and environment variables 
+16:32:06.806 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:32:06.808 INFO  Connecting to MongoDb... 
+16:32:13.790 INFO  Mongoose: Database connection established 
+16:32:14.217 WARN  VersionCheck: 4.2.2 update is available 
+16:32:14.218 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:32:14.219 INFO  Launching dashboard 
+16:32:14.444 INFO  Dashboard is listening on port 8080 
+16:32:17.294 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:32:17.295 INFO  Initializing music manager 
+16:32:17.303 INFO  Initializing giveaways manager 
+16:32:17.408 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:32:18.247 INFO  Node "USA Link" connected 
+16:32:18.262 INFO  Successfully registered slash commands 
+16:32:22.412 WARN  Node "darren" is reconnecting 
+16:32:22.422 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:32:27.433 WARN  Node "darren" is reconnecting 
+16:32:27.470 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:32:32.486 WARN  Node "darren" is reconnecting 
+16:32:32.493 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:32:37.505 WARN  Node "darren" is reconnecting 
+16:32:37.515 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:32:42.530 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:34:22.145 INFO  Loading commands... 
+16:34:22.224 DEBUG Skipping slash command f. Disabled! 
+16:34:22.232 DEBUG Skipping slash command pickupline. Disabled! 
+16:34:22.233 DEBUG Skipping slash command rate. Disabled! 
+16:34:22.235 DEBUG Skipping slash command roast. Disabled! 
+16:34:22.237 DEBUG Skipping slash command simprate. Disabled! 
+16:34:22.240 DEBUG Skipping slash command uselessweb. Disabled! 
+16:34:22.257 DEBUG Skipping slash command avatar. Disabled! 
+16:34:22.258 DEBUG Skipping slash command botinvite. Disabled! 
+16:34:22.312 DEBUG Skipping slash command botstats. Disabled! 
+16:34:22.315 DEBUG Skipping slash command channelinfo. Disabled! 
+16:34:22.317 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:34:22.319 DEBUG Skipping slash command guildinfo. Disabled! 
+16:34:22.321 DEBUG Skipping slash command help. Disabled! 
+16:34:22.322 DEBUG Skipping slash command uptime. Disabled! 
+16:34:22.324 DEBUG Skipping slash command userinfo. Disabled! 
+16:34:22.325 DEBUG Skipping slash command vote. Disabled! 
+16:34:22.330 DEBUG Skipping command bot. Disabled! 
+16:34:22.332 DEBUG Skipping command info. Disabled! 
+16:34:22.345 DEBUG Skipping slash command deafen. Disabled! 
+16:34:22.347 DEBUG Skipping slash command disconnect. Disabled! 
+16:34:22.350 DEBUG Skipping slash command move. Disabled! 
+16:34:22.352 DEBUG Skipping slash command purge. Disabled! 
+16:34:22.353 DEBUG Skipping slash command purgeattach. Disabled! 
+16:34:22.354 DEBUG Skipping slash command purgebots. Disabled! 
+16:34:22.355 DEBUG Skipping slash command purgelinks. Disabled! 
+16:34:22.356 DEBUG Skipping slash command purgetoken. Disabled! 
+16:34:22.357 DEBUG Skipping slash command purgeuser. Disabled! 
+16:34:22.360 DEBUG Skipping command purge. Disabled! 
+16:34:22.361 DEBUG Skipping command voice. Disabled! 
+16:34:22.365 DEBUG Skipping slash command undeafen. Disabled! 
+16:34:22.366 DEBUG Skipping slash command vmute. Disabled! 
+16:34:22.367 DEBUG Skipping slash command vunmute. Disabled! 
+16:34:22.402 DEBUG Skipping command help. Disabled! 
+16:34:22.409 INFO  Loaded 106 commands 
+16:34:22.410 INFO  Loaded 83 slash commands 
+16:34:22.411 INFO  Loading contexts... 
+16:34:22.416 INFO  Loaded 2 USER contexts 
+16:34:22.417 INFO  Loaded 0 MESSAGE contexts 
+16:34:22.418 INFO  Loading events... 
+16:34:22.520 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:34:22.521 INFO  Validating config.js and environment variables 
+16:34:22.523 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:34:22.524 INFO  Connecting to MongoDb... 
+16:34:27.963 INFO  Mongoose: Database connection established 
+16:34:28.410 WARN  VersionCheck: 4.2.2 update is available 
+16:34:28.411 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:34:28.412 INFO  Launching dashboard 
+16:34:28.639 INFO  Dashboard is listening on port 8080 
+16:34:38.544 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:34:38.545 INFO  Initializing music manager 
+16:34:38.551 INFO  Initializing giveaways manager 
+16:34:38.590 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:34:39.637 INFO  Node "USA Link" connected 
+16:34:39.662 INFO  Successfully registered slash commands 
+16:34:43.601 WARN  Node "darren" is reconnecting 
+16:34:43.619 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:34:49.350 WARN  Node "darren" is reconnecting 
+16:34:49.355 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:34:54.372 WARN  Node "darren" is reconnecting 
+16:34:54.408 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:34:59.419 WARN  Node "darren" is reconnecting 
+16:34:59.426 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:35:04.437 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:36:30.131 INFO  Loading commands... 
+16:36:30.208 DEBUG Skipping slash command f. Disabled! 
+16:36:30.217 DEBUG Skipping slash command pickupline. Disabled! 
+16:36:30.218 DEBUG Skipping slash command rate. Disabled! 
+16:36:30.219 DEBUG Skipping slash command roast. Disabled! 
+16:36:30.222 DEBUG Skipping slash command simprate. Disabled! 
+16:36:30.225 DEBUG Skipping slash command uselessweb. Disabled! 
+16:36:30.242 DEBUG Skipping slash command avatar. Disabled! 
+16:36:30.244 DEBUG Skipping slash command botinvite. Disabled! 
+16:36:30.302 DEBUG Skipping slash command botstats. Disabled! 
+16:36:30.304 DEBUG Skipping slash command channelinfo. Disabled! 
+16:36:30.306 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:36:30.309 DEBUG Skipping slash command guildinfo. Disabled! 
+16:36:30.311 DEBUG Skipping slash command help. Disabled! 
+16:36:30.312 DEBUG Skipping slash command uptime. Disabled! 
+16:36:30.314 DEBUG Skipping slash command userinfo. Disabled! 
+16:36:30.316 DEBUG Skipping slash command vote. Disabled! 
+16:36:30.321 DEBUG Skipping command bot. Disabled! 
+16:36:30.323 DEBUG Skipping command info. Disabled! 
+16:36:30.342 DEBUG Skipping slash command deafen. Disabled! 
+16:36:30.343 DEBUG Skipping slash command disconnect. Disabled! 
+16:36:30.346 DEBUG Skipping slash command move. Disabled! 
+16:36:30.348 DEBUG Skipping slash command purge. Disabled! 
+16:36:30.349 DEBUG Skipping slash command purgeattach. Disabled! 
+16:36:30.350 DEBUG Skipping slash command purgebots. Disabled! 
+16:36:30.351 DEBUG Skipping slash command purgelinks. Disabled! 
+16:36:30.352 DEBUG Skipping slash command purgetoken. Disabled! 
+16:36:30.353 DEBUG Skipping slash command purgeuser. Disabled! 
+16:36:30.357 DEBUG Skipping command purge. Disabled! 
+16:36:30.359 DEBUG Skipping command voice. Disabled! 
+16:36:30.365 DEBUG Skipping slash command undeafen. Disabled! 
+16:36:30.367 DEBUG Skipping slash command vmute. Disabled! 
+16:36:30.368 DEBUG Skipping slash command vunmute. Disabled! 
+16:36:30.401 DEBUG Skipping command help. Disabled! 
+16:36:30.408 INFO  Loaded 106 commands 
+16:36:30.409 INFO  Loaded 83 slash commands 
+16:36:30.410 INFO  Loading contexts... 
+16:36:30.415 INFO  Loaded 2 USER contexts 
+16:36:30.416 INFO  Loaded 0 MESSAGE contexts 
+16:36:30.417 INFO  Loading events... 
+16:36:30.513 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:36:30.515 INFO  Validating config.js and environment variables 
+16:36:30.516 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:36:30.517 INFO  Connecting to MongoDb... 
+16:36:37.278 INFO  Mongoose: Database connection established 
+16:36:39.089 WARN  VersionCheck: 4.2.2 update is available 
+16:36:39.090 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+16:36:39.091 INFO  Launching dashboard 
+16:36:39.318 INFO  Dashboard is listening on port 8080 
+16:36:43.282 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:36:43.284 INFO  Initializing music manager 
+16:36:43.292 INFO  Initializing giveaways manager 
+16:36:43.335 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:36:43.833 INFO  Node "USA Link" connected 
+16:36:43.931 INFO  Successfully registered slash commands 
+16:36:48.341 WARN  Node "darren" is reconnecting 
+16:36:48.383 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:36:53.389 WARN  Node "darren" is reconnecting 
+16:36:53.430 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:36:58.442 WARN  Node "darren" is reconnecting 
+16:36:58.481 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:37:03.493 WARN  Node "darren" is reconnecting 
+16:37:03.502 ERROR getaddrinfo ENOTFOUND losingtime.dpaste.org
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"losingtime.dpaste.org"}
+Error: getaddrinfo ENOTFOUND losingtime.dpaste.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:37:08.507 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 

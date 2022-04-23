@@ -1,0 +1,447 @@
+13:16:48.452 INFO  Loading commands... 
+13:16:49.659 DEBUG Skipping slash command f. Disabled! 
+13:16:49.918 DEBUG Skipping slash command pickupline. Disabled! 
+13:16:49.932 DEBUG Skipping slash command rate. Disabled! 
+13:16:49.936 DEBUG Skipping slash command roast. Disabled! 
+13:16:49.960 DEBUG Skipping slash command simprate. Disabled! 
+13:16:50.039 DEBUG Skipping slash command uselessweb. Disabled! 
+13:16:50.106 DEBUG Skipping slash command avatar. Disabled! 
+13:16:50.113 DEBUG Skipping slash command botinvite. Disabled! 
+13:16:50.716 DEBUG Skipping slash command botstats. Disabled! 
+13:16:50.743 DEBUG Skipping slash command channelinfo. Disabled! 
+13:16:50.754 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:16:50.765 DEBUG Skipping slash command guildinfo. Disabled! 
+13:16:50.773 DEBUG Skipping slash command help. Disabled! 
+13:16:50.775 DEBUG Skipping slash command uptime. Disabled! 
+13:16:50.795 DEBUG Skipping slash command userinfo. Disabled! 
+13:16:50.800 DEBUG Skipping slash command vote. Disabled! 
+13:16:50.898 DEBUG Skipping command bot. Disabled! 
+13:16:51.046 DEBUG Skipping command info. Disabled! 
+13:16:51.559 DEBUG Skipping slash command deafen. Disabled! 
+13:16:51.566 DEBUG Skipping slash command disconnect. Disabled! 
+13:16:51.616 DEBUG Skipping slash command move. Disabled! 
+13:16:51.665 DEBUG Skipping slash command purge. Disabled! 
+13:16:51.670 DEBUG Skipping slash command purgeattach. Disabled! 
+13:16:51.672 DEBUG Skipping slash command purgebots. Disabled! 
+13:16:51.674 DEBUG Skipping slash command purgelinks. Disabled! 
+13:16:51.676 DEBUG Skipping slash command purgetoken. Disabled! 
+13:16:51.677 DEBUG Skipping slash command purgeuser. Disabled! 
+13:16:51.718 DEBUG Skipping command purge. Disabled! 
+13:16:51.723 DEBUG Skipping command voice. Disabled! 
+13:16:51.809 DEBUG Skipping slash command undeafen. Disabled! 
+13:16:51.818 DEBUG Skipping slash command vmute. Disabled! 
+13:16:51.820 DEBUG Skipping slash command vunmute. Disabled! 
+13:16:53.192 INFO  Loaded 108 commands 
+13:16:53.193 INFO  Loaded 84 slash commands 
+13:16:53.194 INFO  Loading contexts... 
+13:16:53.248 INFO  Loaded 2 USER contexts 
+13:16:53.249 INFO  Loaded 0 MESSAGE contexts 
+13:16:53.250 INFO  Loading events... 
+13:16:53.614 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:16:53.616 INFO  Validating config.js and environment variables 
+13:16:53.617 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:16:53.694 INFO  Connecting to MongoDb... 
+13:17:03.685 INFO  Mongoose: Database connection established 
+13:17:05.751 WARN  VersionCheck: 4.2.2 update is available 
+13:17:05.753 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:17:05.754 INFO  Launching dashboard 
+13:17:10.346 INFO  Dashboard is listening on port 8080 
+13:17:15.337 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+13:17:15.339 INFO  Initializing music manager 
+13:17:15.345 INFO  Initializing giveaways manager 
+13:17:16.492 INFO  Successfully registered slash commands 
+13:17:17.405 INFO  Node "USA Link" connected 
+13:17:36.499 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:17:41.505 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:18:02.578 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:18:07.585 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:18:28.650 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:18:33.666 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:18:54.706 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:18:59.709 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:19:20.767 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:19:25.775 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+13:22:32.743 INFO  Loading commands... 
+13:22:32.824 DEBUG Skipping slash command f. Disabled! 
+13:22:32.831 DEBUG Skipping slash command pickupline. Disabled! 
+13:22:32.832 DEBUG Skipping slash command rate. Disabled! 
+13:22:32.833 DEBUG Skipping slash command roast. Disabled! 
+13:22:32.836 DEBUG Skipping slash command simprate. Disabled! 
+13:22:32.840 DEBUG Skipping slash command uselessweb. Disabled! 
+13:22:32.856 DEBUG Skipping slash command avatar. Disabled! 
+13:22:32.857 DEBUG Skipping slash command botinvite. Disabled! 
+13:22:32.912 DEBUG Skipping slash command botstats. Disabled! 
+13:22:32.914 DEBUG Skipping slash command channelinfo. Disabled! 
+13:22:32.917 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:22:32.920 DEBUG Skipping slash command guildinfo. Disabled! 
+13:22:32.922 DEBUG Skipping slash command help. Disabled! 
+13:22:32.923 DEBUG Skipping slash command uptime. Disabled! 
+13:22:32.931 DEBUG Skipping slash command userinfo. Disabled! 
+13:22:32.932 DEBUG Skipping slash command vote. Disabled! 
+13:22:32.937 DEBUG Skipping command bot. Disabled! 
+13:22:32.939 DEBUG Skipping command info. Disabled! 
+13:22:32.954 DEBUG Skipping slash command deafen. Disabled! 
+13:22:32.957 DEBUG Skipping slash command disconnect. Disabled! 
+13:22:32.959 DEBUG Skipping slash command move. Disabled! 
+13:22:32.961 DEBUG Skipping slash command purge. Disabled! 
+13:22:32.962 DEBUG Skipping slash command purgeattach. Disabled! 
+13:22:32.963 DEBUG Skipping slash command purgebots. Disabled! 
+13:22:32.965 DEBUG Skipping slash command purgelinks. Disabled! 
+13:22:32.966 DEBUG Skipping slash command purgetoken. Disabled! 
+13:22:32.968 DEBUG Skipping slash command purgeuser. Disabled! 
+13:22:32.975 DEBUG Skipping command purge. Disabled! 
+13:22:32.976 DEBUG Skipping command voice. Disabled! 
+13:22:32.979 DEBUG Skipping slash command undeafen. Disabled! 
+13:22:32.981 DEBUG Skipping slash command vmute. Disabled! 
+13:22:32.982 DEBUG Skipping slash command vunmute. Disabled! 
+13:22:33.027 INFO  Loaded 108 commands 
+13:22:33.028 INFO  Loaded 84 slash commands 
+13:22:33.029 INFO  Loading contexts... 
+13:22:33.034 INFO  Loaded 2 USER contexts 
+13:22:33.035 INFO  Loaded 0 MESSAGE contexts 
+13:22:33.037 INFO  Loading events... 
+13:22:33.142 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:22:33.143 INFO  Validating config.js and environment variables 
+13:22:33.144 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:22:33.145 INFO  Connecting to MongoDb... 
+13:22:41.615 INFO  Mongoose: Database connection established 
+13:22:43.650 WARN  VersionCheck: 4.2.2 update is available 
+13:22:43.651 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:22:43.652 INFO  Launching dashboard 
+13:22:43.891 INFO  Dashboard is listening on port 8080 
+13:22:48.067 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+13:22:48.068 INFO  Initializing music manager 
+13:22:48.072 INFO  Initializing giveaways manager 
+13:22:48.689 INFO  Successfully registered slash commands 
+13:22:48.950 INFO  Node "USA Link" connected 
+13:23:09.128 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:23:14.134 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:23:30.101 INFO  Loading commands... 
+13:23:30.219 DEBUG Skipping slash command f. Disabled! 
+13:23:30.227 DEBUG Skipping slash command pickupline. Disabled! 
+13:23:30.228 DEBUG Skipping slash command rate. Disabled! 
+13:23:30.229 DEBUG Skipping slash command roast. Disabled! 
+13:23:30.231 DEBUG Skipping slash command simprate. Disabled! 
+13:23:30.235 DEBUG Skipping slash command uselessweb. Disabled! 
+13:23:30.249 DEBUG Skipping slash command avatar. Disabled! 
+13:23:30.251 DEBUG Skipping slash command botinvite. Disabled! 
+13:23:30.304 DEBUG Skipping slash command botstats. Disabled! 
+13:23:30.306 DEBUG Skipping slash command channelinfo. Disabled! 
+13:23:30.309 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:23:30.312 DEBUG Skipping slash command guildinfo. Disabled! 
+13:23:30.315 DEBUG Skipping slash command help. Disabled! 
+13:23:30.317 DEBUG Skipping slash command uptime. Disabled! 
+13:23:30.319 DEBUG Skipping slash command userinfo. Disabled! 
+13:23:30.321 DEBUG Skipping slash command vote. Disabled! 
+13:23:30.325 DEBUG Skipping command bot. Disabled! 
+13:23:30.327 DEBUG Skipping command info. Disabled! 
+13:23:30.340 DEBUG Skipping slash command deafen. Disabled! 
+13:23:30.341 DEBUG Skipping slash command disconnect. Disabled! 
+13:23:30.344 DEBUG Skipping slash command move. Disabled! 
+13:23:30.346 DEBUG Skipping slash command purge. Disabled! 
+13:23:30.347 DEBUG Skipping slash command purgeattach. Disabled! 
+13:23:30.348 DEBUG Skipping slash command purgebots. Disabled! 
+13:23:30.349 DEBUG Skipping slash command purgelinks. Disabled! 
+13:23:30.351 DEBUG Skipping slash command purgetoken. Disabled! 
+13:23:30.352 DEBUG Skipping slash command purgeuser. Disabled! 
+13:23:30.354 DEBUG Skipping command purge. Disabled! 
+13:23:30.358 DEBUG Skipping command voice. Disabled! 
+13:23:30.361 DEBUG Skipping slash command undeafen. Disabled! 
+13:23:30.363 DEBUG Skipping slash command vmute. Disabled! 
+13:23:30.364 DEBUG Skipping slash command vunmute. Disabled! 
+13:23:30.409 INFO  Loaded 108 commands 
+13:23:30.410 INFO  Loaded 84 slash commands 
+13:23:30.412 INFO  Loading contexts... 
+13:23:30.419 INFO  Loaded 2 USER contexts 
+13:23:30.421 INFO  Loaded 0 MESSAGE contexts 
+13:23:30.422 INFO  Loading events... 
+13:23:30.558 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:23:30.559 INFO  Validating config.js and environment variables 
+13:23:30.561 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:23:30.562 INFO  Connecting to MongoDb... 
+13:23:38.921 INFO  Mongoose: Database connection established 
+13:23:39.692 WARN  VersionCheck: 4.2.2 update is available 
+13:23:39.693 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:23:39.694 INFO  Launching dashboard 
+13:23:40.208 INFO  Dashboard is listening on port 8080 
+13:23:43.823 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+13:23:43.824 INFO  Initializing music manager 
+13:23:43.830 INFO  Initializing giveaways manager 
+13:23:44.352 INFO  Successfully registered slash commands 
+13:23:44.383 INFO  Node "USA Link" connected 
+13:24:04.911 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:24:09.919 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:24:30.958 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:24:35.965 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:24:57.020 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:25:02.031 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:25:23.067 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:25:28.078 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:25:49.113 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:25:54.129 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+13:26:07.205 INFO  Loading commands... 
+13:26:07.276 DEBUG Skipping slash command f. Disabled! 
+13:26:07.284 DEBUG Skipping slash command pickupline. Disabled! 
+13:26:07.285 DEBUG Skipping slash command rate. Disabled! 
+13:26:07.286 DEBUG Skipping slash command roast. Disabled! 
+13:26:07.288 DEBUG Skipping slash command simprate. Disabled! 
+13:26:07.292 DEBUG Skipping slash command uselessweb. Disabled! 
+13:26:07.308 DEBUG Skipping slash command avatar. Disabled! 
+13:26:07.310 DEBUG Skipping slash command botinvite. Disabled! 
+13:26:07.367 DEBUG Skipping slash command botstats. Disabled! 
+13:26:07.369 DEBUG Skipping slash command channelinfo. Disabled! 
+13:26:07.371 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:26:07.374 DEBUG Skipping slash command guildinfo. Disabled! 
+13:26:07.381 DEBUG Skipping slash command help. Disabled! 
+13:26:07.382 DEBUG Skipping slash command uptime. Disabled! 
+13:26:07.384 DEBUG Skipping slash command userinfo. Disabled! 
+13:26:07.385 DEBUG Skipping slash command vote. Disabled! 
+13:26:07.389 DEBUG Skipping command bot. Disabled! 
+13:26:07.391 DEBUG Skipping command info. Disabled! 
+13:26:07.404 DEBUG Skipping slash command deafen. Disabled! 
+13:26:07.406 DEBUG Skipping slash command disconnect. Disabled! 
+13:26:07.408 DEBUG Skipping slash command move. Disabled! 
+13:26:07.410 DEBUG Skipping slash command purge. Disabled! 
+13:26:07.411 DEBUG Skipping slash command purgeattach. Disabled! 
+13:26:07.412 DEBUG Skipping slash command purgebots. Disabled! 
+13:26:07.413 DEBUG Skipping slash command purgelinks. Disabled! 
+13:26:07.416 DEBUG Skipping slash command purgetoken. Disabled! 
+13:26:07.417 DEBUG Skipping slash command purgeuser. Disabled! 
+13:26:07.420 DEBUG Skipping command purge. Disabled! 
+13:26:07.422 DEBUG Skipping command voice. Disabled! 
+13:26:07.424 DEBUG Skipping slash command undeafen. Disabled! 
+13:26:07.426 DEBUG Skipping slash command vmute. Disabled! 
+13:26:07.427 DEBUG Skipping slash command vunmute. Disabled! 
+13:26:07.606 INFO  Loaded 108 commands 
+13:26:07.607 INFO  Loaded 84 slash commands 
+13:26:07.608 INFO  Loading contexts... 
+13:26:07.613 INFO  Loaded 2 USER contexts 
+13:26:07.614 INFO  Loaded 0 MESSAGE contexts 
+13:26:07.616 INFO  Loading events... 
+13:26:07.884 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:26:07.885 INFO  Validating config.js and environment variables 
+13:26:07.887 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:26:07.888 INFO  Connecting to MongoDb... 
+13:26:13.952 INFO  Mongoose: Database connection established 
+13:26:14.436 WARN  VersionCheck: 4.2.2 update is available 
+13:26:14.437 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:26:14.438 INFO  Launching dashboard 
+13:26:14.755 INFO  Dashboard is listening on port 8080 
+13:26:24.234 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+13:26:24.235 INFO  Initializing music manager 
+13:26:24.239 INFO  Initializing giveaways manager 
+13:26:24.864 INFO  Node "USA Link" connected 
+13:26:25.451 INFO  Successfully registered slash commands 
+13:26:45.319 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:26:50.324 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:27:11.416 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:27:16.423 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:27:37.457 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:27:42.459 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:28:03.494 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:28:08.500 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:28:29.559 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:28:34.570 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+13:40:43.276 INFO  Loading commands... 
+13:40:45.201 DEBUG Skipping slash command f. Disabled! 
+13:40:45.906 DEBUG Skipping slash command pickupline. Disabled! 
+13:40:45.948 DEBUG Skipping slash command rate. Disabled! 
+13:40:45.950 DEBUG Skipping slash command roast. Disabled! 
+13:40:46.516 DEBUG Skipping slash command simprate. Disabled! 
+13:40:47.188 DEBUG Skipping slash command uselessweb. Disabled! 
+13:40:48.543 DEBUG Skipping slash command avatar. Disabled! 
+13:40:48.558 DEBUG Skipping slash command botinvite. Disabled! 
+13:40:52.194 DEBUG Skipping slash command botstats. Disabled! 
+13:40:52.198 DEBUG Skipping slash command channelinfo. Disabled! 
+13:40:52.201 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:40:52.246 DEBUG Skipping slash command guildinfo. Disabled! 
+13:40:52.322 DEBUG Skipping slash command help. Disabled! 
+13:40:52.324 DEBUG Skipping slash command uptime. Disabled! 
+13:40:52.354 DEBUG Skipping slash command userinfo. Disabled! 
+13:40:52.376 DEBUG Skipping slash command vote. Disabled! 
+13:40:52.401 DEBUG Skipping command bot. Disabled! 
+13:40:52.406 DEBUG Skipping command info. Disabled! 
+13:40:52.478 DEBUG Skipping slash command deafen. Disabled! 
+13:40:52.481 DEBUG Skipping slash command disconnect. Disabled! 
+13:40:52.500 DEBUG Skipping slash command move. Disabled! 
+13:40:52.505 DEBUG Skipping slash command purge. Disabled! 
+13:40:52.508 DEBUG Skipping slash command purgeattach. Disabled! 
+13:40:52.510 DEBUG Skipping slash command purgebots. Disabled! 
+13:40:52.512 DEBUG Skipping slash command purgelinks. Disabled! 
+13:40:52.515 DEBUG Skipping slash command purgetoken. Disabled! 
+13:40:52.517 DEBUG Skipping slash command purgeuser. Disabled! 
+13:40:52.530 DEBUG Skipping command purge. Disabled! 
+13:40:52.532 DEBUG Skipping command voice. Disabled! 
+13:40:52.554 DEBUG Skipping slash command undeafen. Disabled! 
+13:40:52.558 DEBUG Skipping slash command vmute. Disabled! 
+13:40:52.559 DEBUG Skipping slash command vunmute. Disabled! 
+13:40:53.170 INFO  Loaded 108 commands 
+13:40:53.171 INFO  Loaded 84 slash commands 
+13:40:53.172 INFO  Loading contexts... 
+13:40:53.212 INFO  Loaded 2 USER contexts 
+13:40:53.212 INFO  Loaded 0 MESSAGE contexts 
+13:40:53.214 INFO  Loading events... 
+13:40:53.687 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:40:53.688 INFO  Validating config.js and environment variables 
+13:40:53.689 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:40:53.690 INFO  Connecting to MongoDb... 
+13:40:55.959 INFO  Mongoose: Database connection established 
+13:40:56.123 WARN  VersionCheck: 4.2.2 update is available 
+13:40:56.124 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:40:56.125 INFO  Launching dashboard 
+13:41:03.044 INFO  Dashboard is listening on port 8080 
+13:41:05.302 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+13:41:05.303 INFO  Initializing music manager 
+13:41:05.316 INFO  Initializing giveaways manager 
+13:41:05.737 INFO  Node "lavalink.gaproknetwork.xyz" connected 
+13:41:06.040 INFO  Node "USA Link" connected 
+13:41:06.073 INFO  Node "lavalink.oops.wtf" connected 
+13:41:06.487 INFO  Successfully registered slash commands 
+13:41:45.711 INFO  Loading commands... 
+13:41:45.787 DEBUG Skipping slash command f. Disabled! 
+13:41:45.795 DEBUG Skipping slash command pickupline. Disabled! 
+13:41:45.796 DEBUG Skipping slash command rate. Disabled! 
+13:41:45.798 DEBUG Skipping slash command roast. Disabled! 
+13:41:45.800 DEBUG Skipping slash command simprate. Disabled! 
+13:41:45.804 DEBUG Skipping slash command uselessweb. Disabled! 
+13:41:45.821 DEBUG Skipping slash command avatar. Disabled! 
+13:41:45.822 DEBUG Skipping slash command botinvite. Disabled! 
+13:41:45.877 DEBUG Skipping slash command botstats. Disabled! 
+13:41:45.879 DEBUG Skipping slash command channelinfo. Disabled! 
+13:41:45.881 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:41:45.889 DEBUG Skipping slash command guildinfo. Disabled! 
+13:41:45.891 DEBUG Skipping slash command help. Disabled! 
+13:41:45.892 DEBUG Skipping slash command uptime. Disabled! 
+13:41:45.893 DEBUG Skipping slash command userinfo. Disabled! 
+13:41:45.895 DEBUG Skipping slash command vote. Disabled! 
+13:41:45.899 DEBUG Skipping command bot. Disabled! 
+13:41:45.901 DEBUG Skipping command info. Disabled! 
+13:41:45.915 DEBUG Skipping slash command deafen. Disabled! 
+13:41:45.916 DEBUG Skipping slash command disconnect. Disabled! 
+13:41:45.919 DEBUG Skipping slash command move. Disabled! 
+13:41:45.921 DEBUG Skipping slash command purge. Disabled! 
+13:41:45.922 DEBUG Skipping slash command purgeattach. Disabled! 
+13:41:45.923 DEBUG Skipping slash command purgebots. Disabled! 
+13:41:45.924 DEBUG Skipping slash command purgelinks. Disabled! 
+13:41:45.925 DEBUG Skipping slash command purgetoken. Disabled! 
+13:41:45.926 DEBUG Skipping slash command purgeuser. Disabled! 
+13:41:45.928 DEBUG Skipping command purge. Disabled! 
+13:41:45.930 DEBUG Skipping command voice. Disabled! 
+13:41:45.932 DEBUG Skipping slash command undeafen. Disabled! 
+13:41:45.934 DEBUG Skipping slash command vmute. Disabled! 
+13:41:45.935 DEBUG Skipping slash command vunmute. Disabled! 
+13:41:45.973 INFO  Loaded 108 commands 
+13:41:45.974 INFO  Loaded 84 slash commands 
+13:41:45.975 INFO  Loading contexts... 
+13:41:45.981 INFO  Loaded 2 USER contexts 
+13:41:45.982 INFO  Loaded 0 MESSAGE contexts 
+13:41:45.983 INFO  Loading events... 
+13:41:46.070 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:41:46.071 INFO  Validating config.js and environment variables 
+13:41:46.072 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:41:46.073 INFO  Connecting to MongoDb... 
+13:41:48.339 INFO  Mongoose: Database connection established 
+13:41:48.783 WARN  VersionCheck: 4.2.2 update is available 
+13:41:48.784 WARN  download: https://github.com/saiteja-madha/discord-js-bot/releases/latest 
+13:41:48.785 INFO  Launching dashboard 
+13:41:49.069 INFO  Dashboard is listening on port 8080 
+13:41:50.754 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+13:41:50.755 INFO  Initializing music manager 
+13:41:50.763 INFO  Initializing giveaways manager 
+13:41:50.875 INFO  Node "lavalink.oops.wtf" connected 
+13:41:51.031 INFO  Node "lavalink.gaproknetwork.xyz" connected 
+13:41:51.301 INFO  Successfully registered slash commands 
+13:41:51.308 INFO  Node "USA Link" connected 
+13:42:11.844 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:42:16.859 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:42:37.917 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:42:42.932 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:43:03.987 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:43:09.004 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:43:30.046 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:43:35.062 WARN  Node "node1.roverdev.xyz" is reconnecting 
+13:43:56.107 ERROR connect ETIMEDOUT 51.81.81.215:2333
+{"errno":-4039,"code":"ETIMEDOUT","syscall":"connect","address":"51.81.81.215","port":2333}
+Error: connect ETIMEDOUT 51.81.81.215:2333
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) 
+13:44:01.110 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 

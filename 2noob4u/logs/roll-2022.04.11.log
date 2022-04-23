@@ -1,0 +1,496 @@
+16:12:41.845 INFO  Loading commands... 
+16:12:41.933 DEBUG Skipping slash command avatar. Disabled! 
+16:12:41.935 DEBUG Skipping slash command botinvite. Disabled! 
+16:12:42.497 DEBUG Skipping slash command botstats. Disabled! 
+16:12:42.499 DEBUG Skipping slash command channelinfo. Disabled! 
+16:12:42.501 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:12:42.503 DEBUG Skipping slash command guildinfo. Disabled! 
+16:12:42.505 DEBUG Skipping slash command help. Disabled! 
+16:12:42.506 DEBUG Skipping slash command uptime. Disabled! 
+16:12:42.663 DEBUG Skipping slash command userinfo. Disabled! 
+16:12:42.669 DEBUG Skipping command bot. Disabled! 
+16:12:42.671 DEBUG Skipping command info. Disabled! 
+16:12:42.692 DEBUG Skipping slash command deafen. Disabled! 
+16:12:42.694 DEBUG Skipping slash command disconnect. Disabled! 
+16:12:42.696 DEBUG Skipping slash command move. Disabled! 
+16:12:42.698 DEBUG Skipping slash command purge. Disabled! 
+16:12:42.699 DEBUG Skipping slash command purgeattach. Disabled! 
+16:12:42.700 DEBUG Skipping slash command purgebots. Disabled! 
+16:12:42.701 DEBUG Skipping slash command purgelinks. Disabled! 
+16:12:42.702 DEBUG Skipping slash command purgetoken. Disabled! 
+16:12:42.702 DEBUG Skipping slash command purgeuser. Disabled! 
+16:12:42.705 DEBUG Skipping command purge. Disabled! 
+16:12:42.707 DEBUG Skipping command voice. Disabled! 
+16:12:42.709 DEBUG Skipping slash command undeafen. Disabled! 
+16:12:42.711 DEBUG Skipping slash command vmute. Disabled! 
+16:12:42.712 DEBUG Skipping slash command vunmute. Disabled! 
+16:12:42.744 DEBUG Skipping command eeeeee. Disabled! 
+16:12:42.745 DEBUG Skipping slash command eeeeee. Disabled! 
+16:12:42.751 INFO  Loaded 97 commands 
+16:12:42.752 INFO  Loaded 80 slash commands 
+16:12:42.753 INFO  Loading contexts... 
+16:12:42.758 INFO  Loaded 2 USER contexts 
+16:12:42.759 INFO  Loaded 0 MESSAGE contexts 
+16:12:42.760 INFO  Loading events... 
+16:12:42.868 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:12:42.869 INFO  Validating config.js and environment variables 
+16:12:42.870 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:12:42.871 INFO  Connecting to MongoDb... 
+16:12:48.583 INFO  Mongoose: Database connection established 
+16:12:50.355 INFO  VersionCheck: Your discord bot is up to date 
+16:12:50.356 INFO  Launching dashboard 
+16:12:55.337 INFO  Dashboard is listening on port 443 
+16:12:58.192 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:12:58.193 INFO  Initializing music manager 
+16:12:58.201 INFO  Initializing giveaways manager 
+16:12:59.041 INFO  Node "darren" connected 
+16:12:59.046 INFO  Node "USA Link" connected 
+16:12:59.053 INFO  Successfully registered slash commands 
+16:21:09.778 INFO  Loading commands... 
+16:21:10.263 DEBUG Skipping slash command avatar. Disabled! 
+16:21:10.270 DEBUG Skipping slash command botinvite. Disabled! 
+16:21:11.025 DEBUG Skipping slash command botstats. Disabled! 
+16:21:11.042 DEBUG Skipping slash command channelinfo. Disabled! 
+16:21:11.049 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:21:11.065 DEBUG Skipping slash command guildinfo. Disabled! 
+16:21:11.070 DEBUG Skipping slash command help. Disabled! 
+16:21:11.073 DEBUG Skipping slash command uptime. Disabled! 
+16:21:11.095 DEBUG Skipping slash command userinfo. Disabled! 
+16:21:11.133 DEBUG Skipping command bot. Disabled! 
+16:21:11.189 DEBUG Skipping command info. Disabled! 
+16:21:11.625 DEBUG Skipping slash command deafen. Disabled! 
+16:21:11.628 DEBUG Skipping slash command disconnect. Disabled! 
+16:21:11.691 DEBUG Skipping slash command move. Disabled! 
+16:21:11.756 DEBUG Skipping slash command purge. Disabled! 
+16:21:11.761 DEBUG Skipping slash command purgeattach. Disabled! 
+16:21:11.765 DEBUG Skipping slash command purgebots. Disabled! 
+16:21:11.768 DEBUG Skipping slash command purgelinks. Disabled! 
+16:21:11.771 DEBUG Skipping slash command purgetoken. Disabled! 
+16:21:11.774 DEBUG Skipping slash command purgeuser. Disabled! 
+16:21:11.835 DEBUG Skipping command purge. Disabled! 
+16:21:11.840 DEBUG Skipping command voice. Disabled! 
+16:21:11.898 DEBUG Skipping slash command undeafen. Disabled! 
+16:21:11.902 DEBUG Skipping slash command vmute. Disabled! 
+16:21:11.904 DEBUG Skipping slash command vunmute. Disabled! 
+16:21:12.768 DEBUG Skipping command help. Disabled! 
+16:21:12.828 INFO  Loaded 97 commands 
+16:21:12.830 INFO  Loaded 81 slash commands 
+16:21:12.834 INFO  Loading contexts... 
+16:21:12.898 INFO  Loaded 2 USER contexts 
+16:21:12.898 INFO  Loaded 0 MESSAGE contexts 
+16:21:12.899 INFO  Loading events... 
+16:21:13.318 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:21:13.319 INFO  Validating config.js and environment variables 
+16:21:13.320 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:21:13.521 INFO  Connecting to MongoDb... 
+16:21:20.068 INFO  Mongoose: Database connection established 
+16:21:21.742 INFO  VersionCheck: Your discord bot is up to date 
+16:21:21.743 INFO  Launching dashboard 
+16:21:26.853 INFO  Dashboard is listening on port 443 
+16:21:29.724 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:21:29.725 INFO  Initializing music manager 
+16:21:29.731 INFO  Initializing giveaways manager 
+16:21:30.295 INFO  Node "USA Link" connected 
+16:21:30.326 INFO  Node "darren" connected 
+16:21:30.449 INFO  Successfully registered slash commands 
+16:25:21.451 INFO  Guild Left: Darsh's server Members: 38 
+16:26:11.280 INFO  Guild Joined: Darsh's server Members: 39 
+16:32:44.985 INFO  Loading commands... 
+16:32:45.330 ERROR Failed to load lyrics.js Reason: Alias fact already registered 
+16:32:45.717 DEBUG Skipping slash command avatar. Disabled! 
+16:32:45.726 DEBUG Skipping slash command botinvite. Disabled! 
+16:32:46.602 DEBUG Skipping slash command botstats. Disabled! 
+16:32:46.621 DEBUG Skipping slash command channelinfo. Disabled! 
+16:32:46.627 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:32:46.688 DEBUG Skipping slash command guildinfo. Disabled! 
+16:32:46.698 DEBUG Skipping slash command help. Disabled! 
+16:32:46.700 DEBUG Skipping slash command uptime. Disabled! 
+16:32:46.719 DEBUG Skipping slash command userinfo. Disabled! 
+16:32:46.744 DEBUG Skipping command bot. Disabled! 
+16:32:46.748 DEBUG Skipping command info. Disabled! 
+16:32:46.823 DEBUG Skipping slash command deafen. Disabled! 
+16:32:46.829 DEBUG Skipping slash command disconnect. Disabled! 
+16:32:46.842 DEBUG Skipping slash command move. Disabled! 
+16:32:46.847 DEBUG Skipping slash command purge. Disabled! 
+16:32:46.849 DEBUG Skipping slash command purgeattach. Disabled! 
+16:32:46.852 DEBUG Skipping slash command purgebots. Disabled! 
+16:32:46.854 DEBUG Skipping slash command purgelinks. Disabled! 
+16:32:46.857 DEBUG Skipping slash command purgetoken. Disabled! 
+16:32:46.858 DEBUG Skipping slash command purgeuser. Disabled! 
+16:32:46.878 DEBUG Skipping command purge. Disabled! 
+16:32:46.882 DEBUG Skipping command voice. Disabled! 
+16:32:46.897 DEBUG Skipping slash command undeafen. Disabled! 
+16:32:46.902 DEBUG Skipping slash command vmute. Disabled! 
+16:32:46.904 DEBUG Skipping slash command vunmute. Disabled! 
+16:32:47.172 DEBUG Skipping command help. Disabled! 
+16:32:47.216 INFO  Loaded 97 commands 
+16:32:47.217 INFO  Loaded 81 slash commands 
+16:32:47.218 INFO  Loading contexts... 
+16:32:47.279 INFO  Loaded 2 USER contexts 
+16:32:47.281 INFO  Loaded 0 MESSAGE contexts 
+16:32:47.282 INFO  Loading events... 
+16:32:47.554 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:32:47.555 INFO  Validating config.js and environment variables 
+16:32:47.556 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:32:47.558 INFO  Connecting to MongoDb... 
+16:32:52.501 INFO  Mongoose: Database connection established 
+16:32:56.146 INFO  VersionCheck: Your discord bot is up to date 
+16:32:56.195 INFO  Launching dashboard 
+16:33:00.081 INFO  Dashboard is listening on port 443 
+16:33:02.024 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:33:02.025 INFO  Initializing music manager 
+16:33:02.031 INFO  Initializing giveaways manager 
+16:33:03.414 INFO  Node "darren" connected 
+16:33:03.425 INFO  Node "USA Link" connected 
+16:33:03.445 INFO  Successfully registered slash commands 
+16:33:21.014 INFO  Loading commands... 
+16:33:21.108 ERROR Failed to load lyrics.js Reason: Alias fact already registered 
+16:33:21.142 DEBUG Skipping slash command avatar. Disabled! 
+16:33:21.144 DEBUG Skipping slash command botinvite. Disabled! 
+16:33:21.228 DEBUG Skipping slash command botstats. Disabled! 
+16:33:21.230 DEBUG Skipping slash command channelinfo. Disabled! 
+16:33:21.232 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:33:21.234 DEBUG Skipping slash command guildinfo. Disabled! 
+16:33:21.236 DEBUG Skipping slash command help. Disabled! 
+16:33:21.237 DEBUG Skipping slash command uptime. Disabled! 
+16:33:21.239 DEBUG Skipping slash command userinfo. Disabled! 
+16:33:21.244 DEBUG Skipping command bot. Disabled! 
+16:33:21.246 DEBUG Skipping command info. Disabled! 
+16:33:21.263 DEBUG Skipping slash command deafen. Disabled! 
+16:33:21.265 DEBUG Skipping slash command disconnect. Disabled! 
+16:33:21.268 DEBUG Skipping slash command move. Disabled! 
+16:33:21.270 DEBUG Skipping slash command purge. Disabled! 
+16:33:21.271 DEBUG Skipping slash command purgeattach. Disabled! 
+16:33:21.272 DEBUG Skipping slash command purgebots. Disabled! 
+16:33:21.273 DEBUG Skipping slash command purgelinks. Disabled! 
+16:33:21.274 DEBUG Skipping slash command purgetoken. Disabled! 
+16:33:21.275 DEBUG Skipping slash command purgeuser. Disabled! 
+16:33:21.278 DEBUG Skipping command purge. Disabled! 
+16:33:21.279 DEBUG Skipping command voice. Disabled! 
+16:33:21.282 DEBUG Skipping slash command undeafen. Disabled! 
+16:33:21.284 DEBUG Skipping slash command vmute. Disabled! 
+16:33:21.285 DEBUG Skipping slash command vunmute. Disabled! 
+16:33:21.336 DEBUG Skipping command help. Disabled! 
+16:33:21.343 INFO  Loaded 97 commands 
+16:33:21.343 INFO  Loaded 81 slash commands 
+16:33:21.345 INFO  Loading contexts... 
+16:33:21.350 INFO  Loaded 2 USER contexts 
+16:33:21.351 INFO  Loaded 0 MESSAGE contexts 
+16:33:21.352 INFO  Loading events... 
+16:33:21.439 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:33:21.440 INFO  Validating config.js and environment variables 
+16:33:21.441 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:33:21.442 INFO  Connecting to MongoDb... 
+16:33:25.780 INFO  Mongoose: Database connection established 
+16:33:27.018 INFO  VersionCheck: Your discord bot is up to date 
+16:33:27.019 INFO  Launching dashboard 
+16:33:27.904 INFO  Dashboard is listening on port 443 
+16:33:36.044 INFO  Loading commands... 
+16:33:36.155 DEBUG Skipping slash command avatar. Disabled! 
+16:33:36.157 DEBUG Skipping slash command botinvite. Disabled! 
+16:33:36.279 DEBUG Skipping slash command botstats. Disabled! 
+16:33:36.281 DEBUG Skipping slash command channelinfo. Disabled! 
+16:33:36.284 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:33:36.286 DEBUG Skipping slash command guildinfo. Disabled! 
+16:33:36.288 DEBUG Skipping slash command help. Disabled! 
+16:33:36.313 DEBUG Skipping slash command uptime. Disabled! 
+16:33:36.321 DEBUG Skipping slash command userinfo. Disabled! 
+16:33:36.331 DEBUG Skipping command bot. Disabled! 
+16:33:36.336 DEBUG Skipping command info. Disabled! 
+16:33:36.362 DEBUG Skipping slash command deafen. Disabled! 
+16:33:36.364 DEBUG Skipping slash command disconnect. Disabled! 
+16:33:36.368 DEBUG Skipping slash command move. Disabled! 
+16:33:36.370 DEBUG Skipping slash command purge. Disabled! 
+16:33:36.371 DEBUG Skipping slash command purgeattach. Disabled! 
+16:33:36.371 DEBUG Skipping slash command purgebots. Disabled! 
+16:33:36.372 DEBUG Skipping slash command purgelinks. Disabled! 
+16:33:36.373 DEBUG Skipping slash command purgetoken. Disabled! 
+16:33:36.374 DEBUG Skipping slash command purgeuser. Disabled! 
+16:33:36.377 DEBUG Skipping command purge. Disabled! 
+16:33:36.379 DEBUG Skipping command voice. Disabled! 
+16:33:36.381 DEBUG Skipping slash command undeafen. Disabled! 
+16:33:36.385 DEBUG Skipping slash command vmute. Disabled! 
+16:33:36.387 DEBUG Skipping slash command vunmute. Disabled! 
+16:33:36.487 DEBUG Skipping command help. Disabled! 
+16:33:36.523 INFO  Loaded 98 commands 
+16:33:36.553 INFO  Loaded 82 slash commands 
+16:33:36.563 INFO  Loading contexts... 
+16:33:36.612 INFO  Loaded 2 USER contexts 
+16:33:36.621 INFO  Loaded 0 MESSAGE contexts 
+16:33:36.634 INFO  Loading events... 
+16:33:36.799 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:33:36.802 INFO  Validating config.js and environment variables 
+16:33:36.804 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:33:36.805 INFO  Connecting to MongoDb... 
+16:33:40.181 INFO  Mongoose: Database connection established 
+16:33:40.354 INFO  VersionCheck: Your discord bot is up to date 
+16:33:40.354 INFO  Launching dashboard 
+16:33:40.727 INFO  Dashboard is listening on port 443 
+16:33:45.012 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:33:45.171 INFO  Initializing music manager 
+16:33:45.177 INFO  Initializing giveaways manager 
+16:33:45.711 INFO  Node "USA Link" connected 
+16:33:45.762 INFO  Node "darren" connected 
+16:33:45.783 INFO  Successfully registered slash commands 
+16:34:49.204 ERROR choice is not defined
+{}
+ReferenceError: choice is not defined
+    at FactCommand.messageRun (G:\real bots\2noob4u\2noob4u\2noob4u\src\commands\fun\lyrics.js:44:52)
+    at FactCommand.executeCommand (G:\real bots\2noob4u\2noob4u\2noob4u\src\structures\Command.js:160:18)
+    at module.exports (G:\real bots\2noob4u\2noob4u\2noob4u\src\events\message\messageCreate.js:30:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+16:38:02.690 INFO  Loading commands... 
+16:38:02.915 ERROR Failed to load lyrics.js Reason: title is not defined 
+16:38:03.116 DEBUG Skipping slash command avatar. Disabled! 
+16:38:03.127 DEBUG Skipping slash command botinvite. Disabled! 
+16:38:04.025 DEBUG Skipping slash command botstats. Disabled! 
+16:38:04.030 DEBUG Skipping slash command channelinfo. Disabled! 
+16:38:04.033 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:38:04.122 DEBUG Skipping slash command guildinfo. Disabled! 
+16:38:04.126 DEBUG Skipping slash command help. Disabled! 
+16:38:04.128 DEBUG Skipping slash command uptime. Disabled! 
+16:38:04.219 DEBUG Skipping slash command userinfo. Disabled! 
+16:38:04.288 DEBUG Skipping command bot. Disabled! 
+16:38:04.292 DEBUG Skipping command info. Disabled! 
+16:38:04.486 DEBUG Skipping slash command deafen. Disabled! 
+16:38:04.489 DEBUG Skipping slash command disconnect. Disabled! 
+16:38:04.540 DEBUG Skipping slash command move. Disabled! 
+16:38:04.545 DEBUG Skipping slash command purge. Disabled! 
+16:38:04.547 DEBUG Skipping slash command purgeattach. Disabled! 
+16:38:04.549 DEBUG Skipping slash command purgebots. Disabled! 
+16:38:04.551 DEBUG Skipping slash command purgelinks. Disabled! 
+16:38:04.552 DEBUG Skipping slash command purgetoken. Disabled! 
+16:38:04.555 DEBUG Skipping slash command purgeuser. Disabled! 
+16:38:04.569 DEBUG Skipping command purge. Disabled! 
+16:38:04.571 DEBUG Skipping command voice. Disabled! 
+16:38:04.581 DEBUG Skipping slash command undeafen. Disabled! 
+16:38:04.586 DEBUG Skipping slash command vmute. Disabled! 
+16:38:04.588 DEBUG Skipping slash command vunmute. Disabled! 
+16:38:05.134 DEBUG Skipping command help. Disabled! 
+16:38:05.232 INFO  Loaded 97 commands 
+16:38:05.233 INFO  Loaded 81 slash commands 
+16:38:05.234 INFO  Loading contexts... 
+16:38:05.296 INFO  Loaded 2 USER contexts 
+16:38:05.297 INFO  Loaded 0 MESSAGE contexts 
+16:38:05.299 INFO  Loading events... 
+16:38:05.512 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:38:05.513 INFO  Validating config.js and environment variables 
+16:38:05.514 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:38:05.515 INFO  Connecting to MongoDb... 
+16:38:07.807 INFO  Mongoose: Database connection established 
+16:38:08.250 INFO  VersionCheck: Your discord bot is up to date 
+16:38:08.251 INFO  Launching dashboard 
+16:38:12.544 INFO  Dashboard is listening on port 443 
+16:38:14.647 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:38:14.649 INFO  Initializing music manager 
+16:38:14.654 INFO  Initializing giveaways manager 
+16:38:15.422 INFO  Successfully registered slash commands 
+16:38:15.429 INFO  Node "USA Link" connected 
+16:38:15.454 INFO  Node "darren" connected 
+16:42:40.644 INFO  Loading commands... 
+16:42:41.067 DEBUG Skipping slash command avatar. Disabled! 
+16:42:41.073 DEBUG Skipping slash command botinvite. Disabled! 
+16:42:41.704 DEBUG Skipping slash command botstats. Disabled! 
+16:42:41.722 DEBUG Skipping slash command channelinfo. Disabled! 
+16:42:41.726 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:42:41.734 DEBUG Skipping slash command guildinfo. Disabled! 
+16:42:41.738 DEBUG Skipping slash command help. Disabled! 
+16:42:41.739 DEBUG Skipping slash command uptime. Disabled! 
+16:42:41.755 DEBUG Skipping slash command userinfo. Disabled! 
+16:42:41.780 DEBUG Skipping command bot. Disabled! 
+16:42:41.784 DEBUG Skipping command info. Disabled! 
+16:42:41.890 DEBUG Skipping slash command deafen. Disabled! 
+16:42:41.893 DEBUG Skipping slash command disconnect. Disabled! 
+16:42:41.966 DEBUG Skipping slash command move. Disabled! 
+16:42:42.020 DEBUG Skipping slash command purge. Disabled! 
+16:42:42.097 DEBUG Skipping slash command purgeattach. Disabled! 
+16:42:42.099 DEBUG Skipping slash command purgebots. Disabled! 
+16:42:42.101 DEBUG Skipping slash command purgelinks. Disabled! 
+16:42:42.103 DEBUG Skipping slash command purgetoken. Disabled! 
+16:42:42.104 DEBUG Skipping slash command purgeuser. Disabled! 
+16:42:42.193 DEBUG Skipping command purge. Disabled! 
+16:42:42.195 DEBUG Skipping command voice. Disabled! 
+16:42:42.269 DEBUG Skipping slash command undeafen. Disabled! 
+16:42:42.275 DEBUG Skipping slash command vmute. Disabled! 
+16:42:42.277 DEBUG Skipping slash command vunmute. Disabled! 
+16:42:42.582 DEBUG Skipping command help. Disabled! 
+16:42:42.651 INFO  Loaded 98 commands 
+16:42:42.653 INFO  Loaded 82 slash commands 
+16:42:42.654 INFO  Loading contexts... 
+16:42:42.660 INFO  Loaded 2 USER contexts 
+16:42:42.662 INFO  Loaded 0 MESSAGE contexts 
+16:42:42.663 INFO  Loading events... 
+16:42:43.042 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:42:43.042 INFO  Validating config.js and environment variables 
+16:42:43.043 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:42:43.044 INFO  Connecting to MongoDb... 
+16:42:47.307 INFO  Mongoose: Database connection established 
+16:42:47.733 INFO  VersionCheck: Your discord bot is up to date 
+16:42:47.734 INFO  Launching dashboard 
+16:42:53.669 INFO  Dashboard is listening on port 443 
+16:42:55.918 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:42:55.919 INFO  Initializing music manager 
+16:42:55.925 INFO  Initializing giveaways manager 
+16:42:56.474 INFO  Node "USA Link" connected 
+16:42:56.517 INFO  Node "darren" connected 
+16:42:56.689 ERROR Invalid Form Body
+23.options[0].choices[0]: Only dictionaries may be used in a ModelType
+{"name":"DiscordAPIError","message":"Invalid Form Body\n23.options[0].choices[0]: Only dictionaries may be used in a ModelType","method":"put","path":"/applications/899185530963656765/commands","code":50035,"httpStatus":400,"requestData":{"json":[{"name":"automod","description":"various automod configuration","type":1,"options":[{"type":1,"name":"antighostping","description":"Logs ghost mentions in your server","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"antiinvites","description":"Allow or disallow sending discord invites in message","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"antilinks","description":"Allow or disallow sending links in message","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"antiscam","description":"Enable or disable antiscam detection","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"maxlines","description":"Sets maximum lines allowed per message","options":[{"type":4,"name":"amount","description":"configuration amount (0 to disable)","required":true}]},{"type":1,"name":"maxmentions","description":"Sets maximum user mentions allowed per message","options":[{"type":4,"name":"amount","description":"configuration amount (0 to disable)","required":true}]},{"type":1,"name":"maxrolementions","description":"Sets maximum role mentions allowed per message","options":[{"type":4,"name":"amount","description":"configuration amount (0 to disable)","required":true}]}]},{"name":"automodconfig","description":"various automod configuration","type":1,"options":[{"type":1,"name":"status","description":"Check automod configuration"},{"type":1,"name":"strikes","description":"Set maximum number of strikes before taking an action","options":[{"type":4,"name":"amount","description":"number of strikes (default 5)","required":true}]},{"type":1,"name":"action","description":"Set action to be performed after receiving maximum strikes","options":[{"type":3,"name":"action","description":"action to perform","required":true,"choices":[{"name":"MUTE","value":"MUTE"},{"name":"KICK","value":"KICK"},{"name":"BAN","value":"BAN"}]}]},{"type":1,"name":"debug","description":"Enable/disable automod for messages sent by admins & moderators","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]}]},{"name":"autorole","description":"setup role to be given when a member joins the server","type":1,"options":[{"type":1,"name":"add","description":"setup the autorole","options":[{"type":8,"name":"role","description":"the role to be given","required":false},{"type":3,"name":"role_id","description":"the role id to be given","required":false}]},{"type":1,"name":"remove","description":"disable the autorole"}]},{"name":"counter","description":"setup counter channel in the guild","type":1,"options":[{"type":3,"name":"type","description":"type of counter channel","required":true,"choices":[{"name":"users","value":"USERS"},{"name":"members","value":"MEMBERS"},{"name":"bots","value":"BOTS"}]},{"type":3,"name":"name","description":"name of the counter channel","required":true}]},{"name":"flagtranslation","description":"configure flag translation in the server","type":1,"options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"name":"farewell","description":"setup farewell message","type":1,"options":[{"type":1,"name":"status","description":"enable or disable farewell message","options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"preview","description":"preview the configured farewell message"},{"type":1,"name":"channel","description":"set farewell channel","options":[{"type":7,"name":"channel","description":"channel name","required":true,"channel_types":[0]}]},{"type":1,"name":"desc","description":"set embed description","options":[{"type":3,"name":"content","description":"description content","required":true}]},{"type":1,"name":"thumbnail","description":"configure embed thumbnail","options":[{"type":3,"name":"status","description":"thumbnail status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"color","description":"set embed color","options":[{"type":3,"name":"hex-code","description":"hex color code","required":true}]},{"type":1,"name":"footer","description":"set embed footer","options":[{"type":3,"name":"content","description":"footer content","required":true}]}]},{"name":"welcome","description":"setup welcome message","type":1,"options":[{"type":1,"name":"status","description":"enable or disable welcome message","options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"preview","description":"preview the configured welcome message"},{"type":1,"name":"channel","description":"set welcome channel","options":[{"type":7,"name":"channel","description":"channel name","required":true,"channel_types":[0]}]},{"type":1,"name":"desc","description":"set embed description","options":[{"type":3,"name":"content","description":"description content","required":true}]},{"type":1,"name":"thumbnail","description":"configure embed thumbnail","options":[{"type":3,"name":"status","description":"thumbnail status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"color","description":"set embed color","options":[{"type":3,"name":"hex-code","description":"hex color code","required":true}]},{"type":1,"name":"footer","description":"set embed footer","options":[{"type":3,"name":"content","description":"footer content","required":true}]}]},{"name":"maxwarn","description":"set max warnings configuration","type":1,"options":[{"type":1,"name":"limit","description":"set max warnings a member can receive before taking an action","options":[{"type":4,"name":"amount","description":"max number of strikes","required":true}]},{"type":1,"name":"action","description":"set action to performed after receiving maximum warnings","options":[{"type":3,"name":"action","description":"action to perform","required":true,"choices":[{"name":"MUTE","value":"MUTE"},{"name":"KICK","value":"KICK"},{"name":"BAN","value":"BAN"}]}]}]},{"name":"modlog","description":"enable or disable moderation logs","type":1,"options":[{"type":7,"name":"channel","description":"channels to send mod logs","required":false,"channel_types":[0]}]},{"name":"addrr","description":"setup reaction role for the specified message","type":1,"options":[{"type":7,"name":"channel","description":"channel where the message exists","required":true,"channel_types":[0]},{"type":3,"name":"message_id","description":"message id to which reaction roles must be configured","required":true},{"type":3,"name":"emoji","description":"emoji to use","required":true},{"type":8,"name":"role","description":"role to be given for the selected emoji","required":true}]},{"name":"removerr","description":"remove configured reaction for the specified message","type":1,"options":[{"type":7,"name":"channel","description":"channel where the message exists","required":true,"channel_types":[0]},{"type":3,"name":"message_id","description":"message id for which reaction roles was configured","required":true}]},{"name":"setprefix","description":"sets a new prefix for this server","type":1,"options":[{"type":3,"name":"newprefix","description":"the new prefix to set","required":true}]},{"name":"ticket","description":"various ticketing commands","type":1,"options":[{"type":1,"name":"setup","description":"setup a new ticket message","options":[{"type":7,"name":"channel","description":"the channel where ticket creation message must be sent","required":true,"channel_types":[0]},{"type":3,"name":"title","description":"the title for the ticket message","required":true},{"type":8,"name":"role","description":"the role's which can have access to newly opened tickets","required":false},{"type":3,"name":"color","description":"hex color for the ticket embed","required":false}]},{"type":1,"name":"log","description":"setup log channel for tickets","options":[{"type":7,"name":"channel","description":"channel where ticket logs must be sent","required":true,"channel_types":[0]}]},{"type":1,"name":"limit","description":"set maximum number of concurrent open tickets","options":[{"type":4,"name":"amount","description":"max number of tickets","required":true}]},{"type":1,"name":"close","description":"closes the ticket [used in ticket channel only]"},{"type":1,"name":"closeall","description":"closes all open tickets"},{"type":1,"name":"add","description":"add user to the current ticket channel [used in ticket channel only]","options":[{"type":3,"name":"user_id","description":"the id of the user to add","required":true}]},{"type":1,"name":"remove","description":"remove user from the ticket channel [used in ticket channel only]","options":[{"type":6,"name":"user","description":"the user to remove","required":true}]}]},{"name":"xpsystem","description":"enable or disable XP ranking system in the server","type":1,"options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"name":"nsfw","description":"show some random nsfw","type":1,"options":[{"type":3,"name":"category","description":"nsfw category","required":false,"choices":[{"name":"anal","value":"anal"},{"name":"boobs","value":"boobs"},{"name":"bJ","value":"bJ"},{"name":"blowjob","value":"blowjob"},{"name":"classic","value":"classic"},{"name":"cumsluts","value":"cumsluts"},{"name":"cumArts","value":"cumArts"},{"name":"ero","value":"ero"},{"name":"feet","value":"feet"},{"name":"femdom","value":"femdom"},{"name":"futanari","value":"futanari"},{"name":"girlSolo","value":"girlSolo"},{"name":"gasm","value":"gasm"},{"name":"hentai","value":"hentai"},{"name":"lesbian","value":"lesbian"},{"name":"trap","value":"trap"},{"name":"neko","value":"neko"},{"name":"pussy","value":"pussy"},{"name":"pussyWankGif","value":"pussyWankGif"},{"name":"pussyArt","value":"pussyArt"},{"name":"spank","value":"spank"},{"name":"yuri","value":"yuri"}]}]},{"name":"react","description":"anime reactions","type":1,"options":[{"type":3,"name":"category","description":"reaction type","required":true,"choices":[{"name":"hug","value":"hug"},{"name":"kiss","value":"kiss"},{"name":"cuddle","value":"cuddle"},{"name":"pat","value":"pat"},{"name":"poke","value":"poke"},{"name":"slap","value":"slap"},{"name":"smug","value":"smug"},{"name":"tickle","value":"tickle"},{"name":"wink","value":"wink"}]}]},{"name":"bank","description":"access to bank operations","type":1,"options":[{"type":1,"name":"balance","description":"check your coin balance","options":[{"type":6,"name":"user","description":"name of the user","required":false}]},{"type":1,"name":"deposit","description":"deposit coins to your bank account","options":[{"type":4,"name":"coins","description":"number of coins to deposit","required":true}]},{"type":1,"name":"withdraw","description":"withdraw coins from your bank account","options":[{"type":4,"name":"coins","description":"number of coins to withdraw","required":true}]},{"type":1,"name":"transfer","description":"transfer coins to other user","options":[{"type":6,"name":"user","description":"the user to whom coins must be transferred","required":true},{"type":4,"name":"coins","description":"the amount of coins to transfer","required":true}]}]},{"name":"beg","description":"beg from someone","type":1,"options":[]},{"name":"daily","description":"receive a daily bonus","type":1,"options":[]},{"name":"gamble","description":"try your luck by gambling","type":1,"options":[{"type":4,"name":"coins","description":"number of coins to bet","required":true}]},{"name":"animal","description":"shows a random animal image","type":1,"options":[{"type":3,"name":"name","description":"animal type","required":true,"choices":[{"name":"cat","value":"cat"},{"name":"dog","value":"dog"},{"name":"panda","value":"panda"},{"name":"fox","value":"fox"},{"name":"red_panda","value":"red_panda"},{"name":"koala","value":"koala"},{"name":"bird","value":"bird"},{"name":"raccoon","value":"raccoon"},{"name":"kangaroo","value":"kangaroo"}]}]},{"name":"facts","description":"shows a random animal facts","type":1,"options":[{"type":3,"name":"name","description":"animal type","required":true,"choices":[{"name":"cat","value":"cat"},{"name":"dog","value":"dog"},{"name":"panda","value":"panda"},{"name":"fox","value":"fox"},{"name":"red_panda","value":"red_panda"},{"name":"koala","value":"koala"},{"name":"bird","value":"bird"},{"name":"raccoon","value":"raccoon"},{"name":"kangaroo","value":"kangaroo"}]}]},{"name":"flip","description":"flips a coin or message","type":1,"options":[{"type":1,"name":"coin","description":"flip a coin"},{"type":1,"name":"text","description":"reverses the given message","options":[{"type":3,"name":"input","description":"text to flip","required":true}]}]},{"name":"lyric","description":"shows a random animal facts","type":1,"options":[{"type":3,"name":"name","description":"animal type","required":true,"choices":{"title":"alone"}}]},{"name":"meme","description":"get a random meme","type":1,"options":[{"type":3,"name":"category","description":"meme category","required":false}]},{"name":"snake","description":"play snake game on discord","type":1,"options":[]},{"name":"wallpaper","description":"get a random wallpaper","type":1,"options":[{"type":3,"name":"category","description":"meme category","required":false}]},{"name":"giveaway","description":"giveaway commands","type":1,"options":[{"type":1,"name":"start","description":"start a giveaway","options":[{"type":7,"name":"channel","description":"the channel to start the giveaway in","required":true,"channel_types":[0]},{"type":4,"name":"duration","description":"the duration of the giveaway in minutes","required":true},{"type":3,"name":"prize","description":"the prize of the giveaway","required":true},{"type":4,"name":"winners","description":"the number of winners","required":true},{"type":6,"name":"host","description":"the host of the giveaway","required":false}]},{"type":1,"name":"pause","description":"pause a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"resume","description":"resume a paused giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"end","description":"end a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"reroll","description":"reroll a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"list","description":"list all giveaways"},{"type":1,"name":"edit","description":"edit a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true},{"type":4,"name":"add_duration","description":"the number of minutes to add to the giveaway duration","required":false},{"type":3,"name":"new_prize","description":"the new prize","required":false},{"type":4,"name":"new_winners","description":"the new number of winners","required":false}]}]},{"name":"filter","description":"add filter to the provided image","type":1,"options":[{"type":3,"name":"name","description":"the type of filter","required":true,"choices":[{"name":"blur","value":"blur"},{"name":"burn","value":"burn"},{"name":"gay","value":"gay"},{"name":"greyscale","value":"greyscale"},{"name":"invert","value":"invert"},{"name":"pixelate","value":"pixelate"},{"name":"sepia","value":"sepia"},{"name":"sharpen","value":"sharpen"}]},{"type":6,"name":"user","description":"the user to whose avatar the filter needs to applied","required":false},{"type":3,"name":"link","description":"the image link to which the filter needs to applied","required":false}]},{"name":"generator","description":"generates a meme for the provided image","type":1,"options":[{"type":3,"name":"name","description":"the type of generator","required":true,"choices":[{"name":"ad","value":"ad"},{"name":"affect","value":"affect"},{"name":"beautiful","value":"beautiful"},{"name":"bobross","value":"bobross"},{"name":"color","value":"color"},{"name":"confusedstonk","value":"confusedstonk"},{"name":"delete","value":"delete"},{"name":"facepalm","value":"facepalm"},{"name":"hitler","value":"hitler"},{"name":"jail","value":"jail"},{"name":"jokeoverhead","value":"jokeoverhead"},{"name":"karaba","value":"karaba"},{"name":"mms","value":"mms"},{"name":"notstonk","value":"notstonk"},{"name":"poutine","value":"poutine"},{"name":"rainbow","value":"rainbow"},{"name":"rip","value":"rip"},{"name":"shit","value":"shit"},{"name":"stonk","value":"stonk"},{"name":"tatoo","value":"tatoo"},{"name":"thomas","value":"thomas"},{"name":"trash","value":"trash"},{"name":"wanted","value":"wanted"},{"name":"wasted","value":"wasted"}]},{"type":6,"name":"user","description":"the user to whose avatar the generator needs to applied","required":false},{"type":3,"name":"link","description":"the image link to which the generator needs to applied","required":false}]},{"name":"leaderboard","description":"display the XP leaderboard","type":1,"options":[{"type":3,"name":"type","description":"type of leaderboard to display","required":true,"choices":[{"name":"xp","value":"xp"},{"name":"invite","value":"invite"}]}]},{"name":"ping","description":"shows the current ping from the bot to the discord servers","type":1,"options":[]},{"name":"profile","description":"shows members profile","type":1,"options":[{"type":6,"name":"user","description":"target user","required":false}]},{"name":"rank","description":"shows members rank in this server","type":1,"options":[{"type":6,"name":"user","description":"target user","required":false}]},{"name":"bot","description":"bot related commands","type":1,"options":[{"type":1,"name":"invite","description":"get bot's invite"},{"type":1,"name":"stats","description":"get bot's statistics"},{"type":1,"name":"uptime","description":"get bot's uptime"}]},{"name":"info","description":"show various information","type":1,"options":[{"type":1,"name":"user","description":"get user information","options":[{"type":6,"name":"name","description":"name of the user","required":false}]},{"type":1,"name":"channel","description":"get channel information","options":[{"type":7,"name":"name","description":"name of the channel","required":false}]},{"type":1,"name":"guild","description":"get guild information"},{"type":1,"name":"bot","description":"get bot information"},{"type":1,"name":"avatar","description":"displays avatar information","options":[{"type":6,"name":"name","description":"name of the user","required":false}]},{"type":1,"name":"emoji","description":"displays emoji information","options":[{"type":3,"name":"name","description":"name of the emoji","required":true}]}]},{"name":"addinvites","description":"add invites to a member","type":1,"options":[{"type":6,"name":"user","description":"the user to give invites to","required":true},{"type":4,"name":"invites","description":"the number of invites to give","required":true}]},{"name":"invitecodes","description":"list all your invites codes in this guild","type":1,"options":[{"type":6,"name":"user","description":"the user to get the invite codes for","required":false}]},{"name":"inviter","description":"shows inviter information","type":1,"options":[{"type":6,"name":"user","description":"the user to get the inviter information for","required":false}]},{"name":"inviterank","description":"configure invite ranks","type":1,"options":[{"type":1,"name":"add","description":"add a new invite rank","options":[{"type":8,"name":"role","description":"role to be given","required":true},{"type":4,"name":"invites","description":"number of invites required to obtain the role","required":true}]},{"type":1,"name":"remove","description":"remove a previously configured invite rank","options":[{"type":8,"name":"role","description":"role with configured invite rank","required":true}]}]},{"name":"inviteranks","description":"shows the invite ranks configured on this guild","type":1,"options":[]},{"name":"invites","description":"shows number of invites in this server","type":1,"options":[{"type":6,"name":"user","description":"the user to get the invites for","required":false}]},{"name":"invitesimport","description":"add existing guild invites to users","type":1,"options":[{"type":6,"name":"user","description":"the user to import invites for","required":false}]},{"name":"invitetracker","description":"enable or disable invite tracking in the server","type":1,"options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"name":"resetinvites","description":"clear a users added invites","type":1,"options":[{"type":6,"name":"user","description":"the user to clear invites for","required":true}]},{"name":"ban","description":"bans the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for ban","required":false}]},{"name":"kick","description":"kicks the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for kick","required":false}]},{"name":"nick","description":"nickname commands","type":1,"options":[{"type":1,"name":"set","description":"change a members nickname","options":[{"type":6,"name":"user","description":"the member whose nick you want to set","required":true},{"type":3,"name":"name","description":"the nickname to set","required":true}]},{"type":1,"name":"reset","description":"reset a members nickname","options":[{"type":6,"name":"user","description":"the members whose nick you want to reset","required":true}]}]},{"name":"purge","description":"purge commands","type":1,"options":[{"type":1,"name":"all","description":"purge all messages","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"attachments","description":"purge all messages with attachments","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"bots","description":"purge all bot messages","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"links","description":"purge all messages with links","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"token","description":"purge all messages containing the specified token","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":3,"name":"token","description":"token to be looked up in messages","required":true},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"user","description":"purge all messages from the specified user","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":6,"name":"user","description":"user whose messages needs to be cleaned","required":true},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]}]},{"name":"voice","description":"voice moderation commands","type":1,"options":[{"type":1,"name":"mute","description":"mute a member's voice","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for mute","required":false}]},{"type":1,"name":"unmute","description":"unmute a muted member's voice","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for unmute","required":false}]},{"type":1,"name":"deafen","description":"deafen a member in voice channel","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for deafen","required":false}]},{"type":1,"name":"undeafen","description":"undeafen a member in voice channel","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for undeafen","required":false}]},{"type":1,"name":"kick","description":"kick a member from voice channel","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for mute","required":false}]},{"type":1,"name":"move","description":"move a member from one voice channel to another","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":7,"name":"channel","description":"the channel to move member to","required":true,"channel_types":[2,13]},{"type":3,"name":"reason","description":"reason for mute","required":false}]}]},{"name":"softban","description":"softban the specified member. Kicks and deletes messages","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for softban","required":false}]},{"name":"timeout","description":"timeouts the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":4,"name":"minutes","description":"the time to timeout the member for","required":true},{"type":3,"name":"reason","description":"reason for timeout","required":false}]},{"name":"untimeout","description":"remove timeout from a member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for timeout","required":false}]},{"name":"warn","description":"warns the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for warn","required":false}]},{"name":"warnings","description":"list or clear user warnings","type":1,"options":[{"type":1,"name":"list","description":"list all warnings for a user","options":[{"type":6,"name":"user","description":"the target member","required":true}]},{"type":1,"name":"clear","description":"clear all warnings for a user","options":[{"type":6,"name":"user","description":"the target member","required":true}]}]},{"name":"bassboost","description":"set bassboost level","type":1,"options":[{"type":3,"name":"level","description":"bassboost level","required":true,"choices":[{"name":"none","value":"none"},{"name":"low","value":"low"},{"name":"medium","value":"medium"},{"name":"high","value":"high"}]}]},{"name":"loop","description":"loops the song or queue","type":1,"options":[{"type":3,"name":"type","description":"The entity you want to loop","required":false,"choices":[{"name":"queue","value":"queue"},{"name":"track","value":"track"}]}]},{"name":"np","description":"show's what track is currently being played","type":1,"options":[]},{"name":"pause","description":"pause the music player","type":1,"options":[]},{"name":"play","description":"play a song from youtube","type":1,"options":[{"type":3,"name":"query","description":"song name or url","required":true}]},{"name":"queue","description":"displays the current music queue","type":1,"options":[{"type":4,"name":"page","description":"page number","required":false}]},{"name":"resume","description":"resumes the music player","type":1,"options":[]},{"name":"search","description":"search for matching songs on youtube","type":1,"options":[{"type":3,"name":"query","description":"song to search","required":true}]},{"name":"seek","description":"sets the playing track's position to the specified position","type":1,"options":[{"type":3,"name":"time","description":"The time you want to seek to.","required":true}]},{"name":"shuffle","description":"shuffle the queue","type":1,"options":[]},{"name":"skip","description":"skip the current song","type":1,"options":[]},{"name":"stop","description":"stop the music player","type":1,"options":[]},{"name":"volume","description":"set the music player volume","type":1,"options":[{"type":4,"name":"amount","description":"Enter a value to set [0 to 100]","required":false}]},{"name":"eval","description":"evaluates something","type":1,"options":[{"type":3,"name":"expression","description":"content to evaluate","required":true}]},{"name":"rep","description":"give reputation to a user","type":1,"options":[{"type":1,"name":"view","description":"view reputation for a user","options":[{"type":6,"name":"user","description":"the user to check reputation for","required":false}]},{"type":1,"name":"give","description":"give reputation to a user","options":[{"type":6,"name":"user","description":"the user to check reputation for","required":true}]}]},{"name":"suggest","description":"create a suggestion","type":1,"options":[{"type":3,"name":"suggestion","description":"the suggestion","required":true}]},{"name":"suggestion","description":"configure suggestion system","type":1,"options":[{"type":1,"name":"status","description":"enable or disable welcome message","options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"channel","description":"configure suggestion channel or disable it","options":[{"type":7,"name":"channel_name","description":"the channel where suggestions will be sent","required":false,"channel_types":[0]}]},{"type":1,"name":"approve","description":"approve a suggestion","options":[{"type":3,"name":"message_id","description":"the message id of the suggestion","required":true}]},{"type":1,"name":"reject","description":"reject a suggestion","options":[{"type":3,"name":"message_id","description":"the message id of the suggestion","required":true}]}]},{"name":"bigemoji","description":"enlarge an emoji","type":1,"options":[{"type":3,"name":"emoji","description":"emoji to enlarge","required":true}]},{"name":"covid","description":"get covid statistics for a country","type":1,"options":[{"type":3,"name":"country","description":"country name to get covid statistics for","required":true}]},{"name":"github","description":"shows github statistics of a user","type":1,"options":[{"type":3,"name":"username","description":"github username","required":true}]},{"name":"help","description":"command help menu","type":1,"options":[{"type":3,"name":"command","description":"name of the command","required":false}]},{"name":"paste","description":"Paste something in sourceb.in","type":1,"options":[{"type":3,"name":"title","description":"title for your content","required":true},{"type":3,"name":"content","description":"content to be posted to bin","required":true}]},{"name":"pokedex","description":"shows pokemon information","type":1,"options":[{"type":3,"name":"pokemon","description":"pokemon name to get information for","required":true}]},{"name":"proxies","description":"fetch proxies. Available types: http, socks4, socks5","type":1,"options":[{"type":3,"name":"type","description":"type of proxy","required":true,"choices":[{"name":"all","value":"all"},{"name":"http","value":"http"},{"name":"socks4","value":"socks4"},{"name":"socks5","value":"socks5"}]}]},{"name":"translate","description":"translate from one language to other","type":1,"options":[{"type":3,"name":"language","description":"translation language","required":true,"choices":[{"name":"Arabic","value":"ar"},{"name":"Czech","value":"cs"},{"name":"German","value":"de"},{"name":"English","value":"en"},{"name":"Persian","value":"fa"},{"name":"French","value":"fr"},{"name":"Hindi","value":"hi"},{"name":"Croatian","value":"hr"},{"name":"Italian","value":"it"},{"name":"Japanese","value":"ja"},{"name":"Korean","value":"ko"},{"name":"Latin","value":"la"},{"name":"Dutch","value":"nl"},{"name":"Polish","value":"pl"},{"name":"Tamil","value":"ta"},{"name":"Telugu","value":"te"}]},{"type":3,"name":"text","description":"the text that requires translation","required":true}]},{"name":"urban","description":"searches the urban dictionary","type":1,"options":[{"type":3,"name":"word","description":"the word for which you want to urban meaning","required":true}]},{"name":"weather","description":"get weather information","type":1,"options":[{"type":3,"name":"place","description":"country/city name to get weather information for","required":true}]},{"name":"avatar","type":2},{"name":"profile","type":2}],"files":[]}}
+DiscordAPIError: Invalid Form Body
+23.options[0].choices[0]: Only dictionaries may be used in a ModelType
+    at RequestHandler.execute (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\discord.js\src\rest\RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async ApplicationCommandManager.set (G:\real bots\2noob4u\2noob4u\2noob4u\node_modules\discord.js\src\managers\ApplicationCommandManager.js:146:18)
+    at async BotClient.registerInteractions (G:\real bots\2noob4u\2noob4u\2noob4u\src\structures\BotClient.js:288:7)
+    at async module.exports (G:\real bots\2noob4u\2noob4u\2noob4u\src\events\ready.js:29:44) 
+16:44:34.556 INFO  Loading commands... 
+16:44:35.065 ERROR Failed to load lyrics.js Reason: animals.map is not a function 
+16:44:35.264 DEBUG Skipping slash command avatar. Disabled! 
+16:44:35.271 DEBUG Skipping slash command botinvite. Disabled! 
+16:44:36.397 DEBUG Skipping slash command botstats. Disabled! 
+16:44:36.401 DEBUG Skipping slash command channelinfo. Disabled! 
+16:44:36.404 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:44:36.416 DEBUG Skipping slash command guildinfo. Disabled! 
+16:44:36.428 DEBUG Skipping slash command help. Disabled! 
+16:44:36.429 DEBUG Skipping slash command uptime. Disabled! 
+16:44:36.448 DEBUG Skipping slash command userinfo. Disabled! 
+16:44:36.473 DEBUG Skipping command bot. Disabled! 
+16:44:36.477 DEBUG Skipping command info. Disabled! 
+16:44:36.571 DEBUG Skipping slash command deafen. Disabled! 
+16:44:36.573 DEBUG Skipping slash command disconnect. Disabled! 
+16:44:36.582 DEBUG Skipping slash command move. Disabled! 
+16:44:36.587 DEBUG Skipping slash command purge. Disabled! 
+16:44:36.588 DEBUG Skipping slash command purgeattach. Disabled! 
+16:44:36.590 DEBUG Skipping slash command purgebots. Disabled! 
+16:44:36.604 DEBUG Skipping slash command purgelinks. Disabled! 
+16:44:36.606 DEBUG Skipping slash command purgetoken. Disabled! 
+16:44:36.607 DEBUG Skipping slash command purgeuser. Disabled! 
+16:44:36.662 DEBUG Skipping command purge. Disabled! 
+16:44:36.665 DEBUG Skipping command voice. Disabled! 
+16:44:36.710 DEBUG Skipping slash command undeafen. Disabled! 
+16:44:36.714 DEBUG Skipping slash command vmute. Disabled! 
+16:44:36.716 DEBUG Skipping slash command vunmute. Disabled! 
+16:44:37.077 DEBUG Skipping command help. Disabled! 
+16:44:37.120 INFO  Loaded 97 commands 
+16:44:37.121 INFO  Loaded 81 slash commands 
+16:44:37.122 INFO  Loading contexts... 
+16:44:37.128 INFO  Loaded 2 USER contexts 
+16:44:37.129 INFO  Loaded 0 MESSAGE contexts 
+16:44:37.130 INFO  Loading events... 
+16:44:37.540 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:44:37.541 INFO  Validating config.js and environment variables 
+16:44:37.542 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:44:37.543 INFO  Connecting to MongoDb... 
+16:44:40.075 INFO  Mongoose: Database connection established 
+16:44:40.534 INFO  VersionCheck: Your discord bot is up to date 
+16:44:40.535 INFO  Launching dashboard 
+16:44:44.286 INFO  Dashboard is listening on port 443 
+16:44:46.085 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:44:46.086 INFO  Initializing music manager 
+16:44:46.092 INFO  Initializing giveaways manager 
+16:44:46.798 INFO  Successfully registered slash commands 
+16:44:46.902 INFO  Node "USA Link" connected 
+16:44:46.911 INFO  Node "darren" connected 
+16:45:47.899 INFO  Loading commands... 
+16:45:47.968 ERROR Failed to load lyrics.js Reason: animals.map is not a function 
+16:45:47.995 DEBUG Skipping slash command avatar. Disabled! 
+16:45:47.997 DEBUG Skipping slash command botinvite. Disabled! 
+16:45:48.050 DEBUG Skipping slash command botstats. Disabled! 
+16:45:48.052 DEBUG Skipping slash command channelinfo. Disabled! 
+16:45:48.054 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:45:48.057 DEBUG Skipping slash command guildinfo. Disabled! 
+16:45:48.058 DEBUG Skipping slash command help. Disabled! 
+16:45:48.059 DEBUG Skipping slash command uptime. Disabled! 
+16:45:48.062 DEBUG Skipping slash command userinfo. Disabled! 
+16:45:48.067 DEBUG Skipping command bot. Disabled! 
+16:45:48.068 DEBUG Skipping command info. Disabled! 
+16:45:48.083 DEBUG Skipping slash command deafen. Disabled! 
+16:45:48.084 DEBUG Skipping slash command disconnect. Disabled! 
+16:45:48.087 DEBUG Skipping slash command move. Disabled! 
+16:45:48.089 DEBUG Skipping slash command purge. Disabled! 
+16:45:48.090 DEBUG Skipping slash command purgeattach. Disabled! 
+16:45:48.091 DEBUG Skipping slash command purgebots. Disabled! 
+16:45:48.092 DEBUG Skipping slash command purgelinks. Disabled! 
+16:45:48.093 DEBUG Skipping slash command purgetoken. Disabled! 
+16:45:48.094 DEBUG Skipping slash command purgeuser. Disabled! 
+16:45:48.097 DEBUG Skipping command purge. Disabled! 
+16:45:48.099 DEBUG Skipping command voice. Disabled! 
+16:45:48.102 DEBUG Skipping slash command undeafen. Disabled! 
+16:45:48.104 DEBUG Skipping slash command vmute. Disabled! 
+16:45:48.105 DEBUG Skipping slash command vunmute. Disabled! 
+16:45:48.142 DEBUG Skipping command help. Disabled! 
+16:45:48.149 INFO  Loaded 97 commands 
+16:45:48.150 INFO  Loaded 81 slash commands 
+16:45:48.151 INFO  Loading contexts... 
+16:45:48.155 INFO  Loaded 2 USER contexts 
+16:45:48.156 INFO  Loaded 0 MESSAGE contexts 
+16:45:48.158 INFO  Loading events... 
+16:45:48.347 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:45:48.350 INFO  Validating config.js and environment variables 
+16:45:48.351 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:45:48.360 INFO  Connecting to MongoDb... 
+16:45:50.864 INFO  Mongoose: Database connection established 
+16:45:51.308 INFO  VersionCheck: Your discord bot is up to date 
+16:45:51.309 INFO  Launching dashboard 
+16:45:51.572 INFO  Dashboard is listening on port 443 
+16:45:53.581 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:45:53.582 INFO  Initializing music manager 
+16:45:53.587 INFO  Initializing giveaways manager 
+16:45:54.151 INFO  Node "USA Link" connected 
+16:45:54.171 INFO  Node "darren" connected 
+16:45:54.179 INFO  Successfully registered slash commands 
+16:46:12.624 INFO  Loading commands... 
+16:46:12.720 DEBUG Skipping slash command avatar. Disabled! 
+16:46:12.722 DEBUG Skipping slash command botinvite. Disabled! 
+16:46:12.794 DEBUG Skipping slash command botstats. Disabled! 
+16:46:12.796 DEBUG Skipping slash command channelinfo. Disabled! 
+16:46:12.798 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:46:12.800 DEBUG Skipping slash command guildinfo. Disabled! 
+16:46:12.802 DEBUG Skipping slash command help. Disabled! 
+16:46:12.803 DEBUG Skipping slash command uptime. Disabled! 
+16:46:12.805 DEBUG Skipping slash command userinfo. Disabled! 
+16:46:12.810 DEBUG Skipping command bot. Disabled! 
+16:46:12.811 DEBUG Skipping command info. Disabled! 
+16:46:12.827 DEBUG Skipping slash command deafen. Disabled! 
+16:46:12.829 DEBUG Skipping slash command disconnect. Disabled! 
+16:46:12.831 DEBUG Skipping slash command move. Disabled! 
+16:46:12.833 DEBUG Skipping slash command purge. Disabled! 
+16:46:12.834 DEBUG Skipping slash command purgeattach. Disabled! 
+16:46:12.835 DEBUG Skipping slash command purgebots. Disabled! 
+16:46:12.836 DEBUG Skipping slash command purgelinks. Disabled! 
+16:46:12.837 DEBUG Skipping slash command purgetoken. Disabled! 
+16:46:12.838 DEBUG Skipping slash command purgeuser. Disabled! 
+16:46:12.841 DEBUG Skipping command purge. Disabled! 
+16:46:12.842 DEBUG Skipping command voice. Disabled! 
+16:46:12.845 DEBUG Skipping slash command undeafen. Disabled! 
+16:46:12.847 DEBUG Skipping slash command vmute. Disabled! 
+16:46:12.848 DEBUG Skipping slash command vunmute. Disabled! 
+16:46:12.883 DEBUG Skipping command help. Disabled! 
+16:46:12.890 INFO  Loaded 98 commands 
+16:46:12.891 INFO  Loaded 82 slash commands 
+16:46:12.892 INFO  Loading contexts... 
+16:46:12.898 INFO  Loaded 2 USER contexts 
+16:46:12.899 INFO  Loaded 0 MESSAGE contexts 
+16:46:12.900 INFO  Loading events... 
+16:46:13.053 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:46:13.055 INFO  Validating config.js and environment variables 
+16:46:13.056 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+16:46:13.058 INFO  Connecting to MongoDb... 
+16:46:15.457 INFO  Mongoose: Database connection established 
+16:46:15.929 INFO  VersionCheck: Your discord bot is up to date 
+16:46:15.929 INFO  Launching dashboard 
+16:46:17.041 INFO  Dashboard is listening on port 443 
+16:46:19.126 INFO  Logged in as test bot 1#3529! (899185530963656765) 
+16:46:19.127 INFO  Initializing music manager 
+16:46:19.131 INFO  Initializing giveaways manager 
+16:46:19.677 INFO  Node "USA Link" connected 
+16:46:19.705 INFO  Node "darren" connected 
+16:46:20.034 INFO  Successfully registered slash commands 
+16:46:45.414 ERROR choice is not defined
+{}
+ReferenceError: choice is not defined
+    at FactCommand.messageRun (G:\real bots\2noob4u\2noob4u\2noob4u\src\commands\fun\lyrics.js:44:52)
+    at FactCommand.executeCommand (G:\real bots\2noob4u\2noob4u\2noob4u\src\structures\Command.js:160:18)
+    at module.exports (G:\real bots\2noob4u\2noob4u\2noob4u\src\events\message\messageCreate.js:30:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
