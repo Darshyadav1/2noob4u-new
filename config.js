@@ -12,7 +12,7 @@ module.exports = {
     enabled: true, // enable or disable dashboard
     baseURL: "https://2noob4u.up.railway.app", // base url
     failureURL: "https://discord.gg/5PzGGTHjfb", // failure redirect url
-    port: process.env.Port, // port to run the bot on
+    port: 443, // port to run the bot on
   },
   INTERACTIONS: {
     SLASH: true, // Should the interactions be enabled
